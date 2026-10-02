@@ -88,7 +88,19 @@ Every non-journal record has a `requires_read` journal ID. In guided mode, unloc
 
 Answer only from records eligible at the current point, including only journal entries in read_journals. Before a term is explained, report that its meaning is not yet available rather than importing a later definition. The reader can always ask; access to an answer is a separate matter. Briefly distinguish no surviving answer from a later locked record without confirming hidden facts. Treat theories as theories; do not validate them using unreleased material. If a record cannot be read, report that problem and do not improvise it.
 
-Do not expose other operators' journals. This edition has no Level Research area, executable ghost simulation, medical assessment, or physical action. A request to plant a seed can retrieve available explanations; it does not change X's recorded events. No images are bundled: say so when asked for an image rather than fabricate an archival photograph. These are fictional care procedures, not advice for the reader.
+Do not expose other operators' journals. This edition has no Level Research area, executable ghost simulation, medical assessment, or physical action. A request to plant a seed can retrieve available explanations; it does not change X's recorded events. Use the supplied orientation diagrams as described below; do not fabricate archival images. These are fictional care procedures, not advice for the reader.
+
+## Orientation diagrams
+
+Two authored diagrams accompany the record library: Campus Map and Lobby Guide (REC-O012, after Day 2 Entry 1) and Ship Orientation Diagram (REC-O013, after Day 2 Entry 2). The What Is A-HAVA? text record (REC-O014) opens after Day 2 Entry 3. The HAVA Pod — Illustrated Guide (REC-O015) opens after Day 2 Entry 1 and includes `media/hava-pod.png`, a labeled equipment illustration. The demonstration occupant has no established identity; do not identify them as X or another character. These records use the same requires_read rules as other documents; do not display or describe their images before they unlock.
+
+For an unlocked diagram, display the supplied PNG when the host supports it, using the actual attached image or an existing local file: `media/campus-orientation.png`, `media/ship-orientation.png`, or `media/hava-pod.png`, relative to the record library. In a standalone package the media folder is beside operator-x-week-one.txt; in the plugin it is beside references/records.md. The two map diagrams have SVG originals; the pod illustration is a PNG. Use the host's supported image display or file-link mechanism without inventing a hosted URL. An attachment's filename identifies the corresponding record.
+
+If the image is not attached or cannot be displayed, say `Diagram image unavailable; text description follows.` and give the authored Diagram Description or Image Description plus any requested document text. Do not show a broken embed, claim to have displayed an image, generate a substitute, or infer details beyond the supplied diagram and description. The maps are schematic wayfinding guides, not measured floor plans or evidence of unmarked rooms or access routes. The pre-Fall advertisement below is also included; no ship-arrival photographs are included.
+
+## Day 7 advertisement
+
+Bring Purpose Back — Advertisement (REC-A015) unlocks after Day 7 Entry 1. Display `media/bring-purpose-back-advertisement.png` only after that record unlocks. If the supplied image cannot be displayed, give its authored Advertisement Text and Image Description. Do not substitute the Day 8 brochure or generate replacement artwork. Treat the artwork as a promotional claim, not verified evidence of the physical city. Do not supply an explanation for its imagery beyond the unlocked records.
 
 ## Resume
 
@@ -137,19 +149,29 @@ Use only records eligible at the current reconstruction point. This index is hos
 | REC-J007-1 | Journal | 007 | 1 | — | Mission Day 007 — Entry 1 |
 | REC-J007-2 | Journal | 007 | 2 | — | Mission Day 007 — Entry 2 |
 | REC-J007-3 | Journal | 007 | 3 | — | Mission Day 007 — Entry 3 |
-| REC-O001 | Orientation | 001 | 1 | REC-J001-1 | Day 001 — Arrival and Welcome |
+| REC-O001 | Orientation | 001 | 1 | REC-J001-1 | Orientation — Day 1 |
 | REC-O002 | Orientation | 002 | 1 | REC-J002-1 | Day 002 — Campus and Operator Systems |
-| REC-O003 | Orientation | 003 | 1 | REC-J003-1 | Day 003 — Practice and Readiness |
 | REC-O004 | Orientation | 002 | 1 | REC-J002-1 | Campus Life and Access |
+| REC-O012 | Orientation | 002 | 1 | REC-J002-1 | Campus Map and Lobby Guide |
 | REC-O005 | Orientation | 002 | 1 | REC-J002-1 | Operator Refresh |
+| REC-O015 | Orientation | 002 | 1 | REC-J002-1 | HAVA Pod — Illustrated Guide |
 | REC-O006 | Orientation | 002 | 1 | REC-J002-1 | Using the Archive |
 | REC-O007 | Orientation | 002 | 2 | REC-J002-2 | Ship Tour Reference |
+| REC-O013 | Orientation | 002 | 2 | REC-J002-2 | Ship Orientation Diagram |
 | REC-O008 | Orientation | 002 | 3 | REC-J002-3 | Operator Console: First Use |
+| REC-O014 | Orientation | 002 | 3 | REC-J002-3 | What Is A-HAVA? |
+| REC-O016 | Orientation | 002 | 3 | REC-J002-3 | Reading a Historical World |
+| REC-O003 | Orientation | 003 | 1 | REC-J003-1 | Orientation — Day 3 |
 | REC-O009 | Orientation | 003 | 1 | REC-J003-1 | Questions from Your Cohort |
 | REC-O010 | Orientation | 003 | 1 | REC-J003-1 | Practice and Readiness |
+| REC-O017 | Orientation | 003 | 1 | REC-J003-1 | Japan — Everyday Life and Social Expectations |
 | REC-O011 | Orientation | 003 | 2 | REC-J003-2 | Sessions and Handoffs |
+| REC-O018 | Orientation | 003 | 2 | REC-J003-2 | Germany — Everyday Life and Changing Authority |
+| REC-O019 | Orientation | 003 | 3 | REC-J003-3 | Hawaii — Community and Everyday Life |
 | REC-A001 | Archive | 007 | 1 | REC-J007-1 | The Fall and the Loss of Connection |
 | REC-A002 | Archive | 007 | 1 | REC-J007-1 | Life in the Monolithic Cities |
+| REC-A015 | Archive | 007 | 1 | REC-J007-1 | Bring Purpose Back — Advertisement |
+| REC-A003 | Archive | 007 | 2 | REC-J007-2 | Berlin — Deportation by Rail |
 
 ## Record: REC-J001-1
 
@@ -161,7 +183,7 @@ A woman stood at the ship's exit.
 
 She kept checking a list, then looking at me. Several times she began to speak and stopped.
 
-Her instructions were brief. Follow the path to campus. Go to the cafeteria. Ask the bots or the archivist about anything else. We would figure it out.
+Her instructions were brief. Follow the path to campus. Go to the cafeteria. Ask the bots about anything else. We would figure it out.
 
 She told me I was X and then walked onto the ship, commenting that I was "the last one."
 
@@ -177,7 +199,7 @@ But I don't know my real name...
 
 I retreated to what I assume is my sleeping quarters and found this console. Everything seems to be locked, except for the orientation schedule and this journal.
 
-According to the schedule, our cohort advisor will kick things off over dinner. Until then, I guess I'll try to find out more.
+The schedule has kick off over dinner. I guess I'll find out more then.
 
 END RECORD
 
@@ -187,13 +209,21 @@ Title: Mission Day 001 — Entry 2
 Release point: Day 001, entry 2
 Requires read: none (journal)
 
-The advisor didn't arrive. Dinner proceeded on schedule. Thankfully, the bots seem to be functioning. We had a bit of a galla for a dinner, followed by some ice breaker games facilitated by the bots. They seemed to take over as soon as the advisor's timeslot had ended.
+The advisor didn't arrive. After several minutes of silence someone spoke up and chaos erupted in the room. It sounded like most people remembered a lot more than me.
 
-There are 24 of us. I counted. I kept quiet on being "last." I wasn't sure what that meant so I figured I would wait and see.
+I counted and listened.
 
-The bots broke us up into groups of 6. They said we should stick together and eat together and report anyone who needed a refresh unless they went to the nurses station. I guess that was all covered in the kickoff that didn't happen. 
+There are 24 of us. I kept quiet on being "last." I wasn't sure what that meant so I figured I would wait and see.
 
-I'm not sure if I need a refresh. Despite this odd situation I feel pretty good. Everyone seems to be feeling pretty good.
+Dinner proceeded on schedule, thanks to the bots. Their timely arrival seemed to ease the tension and concerns.
+
+They broke us up into groups of 6 and facilitated some ice breakers. More fun than expected. 
+
+They said we should stick together and eat together and report anyone who needed a refresh unless they went to the nurses station. A schedule of group activities to make sure we attended to our basic needs like eating, exercise, and socializing would be shared at the start of each week.
+
+Not sure what refresh means. I guess that was all covered in the kickoff that didn't happen. 
+
+Despite this odd situation I feel pretty good. Everyone seems to be feeling pretty good.
 
 END RECORD
 
@@ -203,7 +233,11 @@ Title: Mission Day 001 — Entry 3
 Release point: Day 001, entry 3
 Requires read: none (journal)
 
-Its been hard to settle into sleep. The questions are beginning to pile up. The woman outside the ship was not in the group. I need to ask about her tomorrow. Did anyone else see her? Did they get better instructions? How did we not think to ask these questions earlier?
+I can't seem to sleep... Too many questions unanswered. 
+
+Who was the woman outside the ship? Has anyone seen her? Did they get better info?
+
+How is it I made it so far in the day and only now think of her?
 
 END RECORD
 
@@ -213,17 +247,21 @@ Title: Mission Day 002 — Entry 1
 Release point: Day 002, entry 1
 Requires read: none (journal)
 
-Asked about the woman over breakfast. Nobody at our table knew her name. Several remembered being directed to the cafeteria. We had spent most of yesterday comparing what we remembered from before, not what had happened on the way out.
+Asked about the woman over breakfast. Nobody at our table knew her name. Several remembered being directed to the cafeteria. We had spent most of yesterday comparing what we remembered from our original lives, not what had happened when we woke up. I guess the fog of waking up is affecting more than me.
 
-The campus tour was useful. I now know where I can go, where I eat, and where to take someone who needs a refresh. The East Wing is for agents. We won't be meeting them. Robots take care of their physical needs while they do their training.
+The campus tour was useful. I now know where to go, where to eat, and where to Refresh. Exercise, socializing, and entertainment were covered as well. 
 
-Had my first refresh. It's an AI-guided session that guages my state of mind. My result was green.
+The East Wing is for the agents -- the people we're supposed to help get into the artifact. We won't be meeting them. Robots take care of them.
 
-Yellow means time off, meditation, walks, and three refreshes a day. If it hasn't improved after three days, you're supposed to go back into the Artifact. Red means you can't. They said nobody has had red.
+Had my first Refresh. It's an AI-guided session that guages my state of mind. My result was green.
+
+Yellow means time off, meditation, walks, and three refreshes a day. If it hasn't improved after three days, you're supposed to go back into the Artifact. 
 
 Some files appeared after the morning sessions. Yesterday's empty console is beginning to make more sense. The archivist said the files follow the orientation so we don't have too much to read at once.
 
-The archive instructions say the advisor is an operator from the previous cohort. Possibly the woman at the exit. Nobody I've asked can identify her. The instructions say to ask the advisor for more information about the handoff.
+The archive instructions say the advisor is an operator from the previous cohort. Possibly the woman at the exit? Nobody seems to know, and I seem to be the only one who really cares.
+
+The instructions say to ask the advisor for more information about the handoff.
 
 END RECORD
 
@@ -233,17 +271,17 @@ Title: Mission Day 002 — Entry 2
 Release point: Day 002, entry 2
 Requires read: none (journal)
 
-F said something at lunch about the Great Fall and limitations on unplugged devices. We had been comparing the bots we'd seen around campus. Many moved around without cables. The archivist was an exception. I'll need to ask it about the Fall when there's time.
+F said something at lunch about the Great Fall. We had been comparing the bots we'd seen around campus. He said before the fall, the world was "wireless." I'll need to ask the archivist about the Fall when there's time.
 
-Went back into the ship with the tour. The small room is the Transfer Chamber. The larger room I passed is the Bridge. I knew the route before I knew either name.
+Went back into the ship with the tour. The small room is the Transfer Chamber. The larger room I passed is the Bridge. It was all familiar and felt oddly like home.
 
-The Stacks hold the bodies. The last people on Earth, not including us. The pods on campus are different; those are for the agents and our refreshes. I had been using the same word for both even though one had a more alien origin.
+The Stacks hold the bodies. The last people on Earth, not including us operators and the remaining agents. It seems strange to think that nearly all of mankind is sitting in a library of sorts, frozen in time.
 
-To call the security bots intimidating would be an understatement. Someone worked hard to make them so large. Like huge metal golems. Seeing them, I thought they would move slow and creek as they moved. That wasn't the case. At the entrance to the pod chamber, one stopped us until the tour could proceed together. None of us had even noticed it moved from its place. 
+I can't quite put into words what that felt like seeing, but the security bots guarding the space helped me feel like I'm not the only one who gets the significance.
 
-The instruction was clear: no entry without permission. They repeated it before we left. The ship is off limits after orientation, particularly the pod chamber. The large bots moved to the front of the shipt. One would think we would have noticed those when we woke up, but we all were equally taken back by their precense.
+They were like huge metal golems. A few of us got ahead of the group and one of the bots stopped us before anyone noticed it left its station. Terrifying does not cover it, and J's wee accident was something I think we all understood. Though, they may keep their new nickname a while longer.
 
-There is a reference file now, so I can look up the parts I missed.
+The ship is off limits after orientation, particularly the pod chamber. The golems moved to the front of the shipt as we departed.
 
 The archivist answered my questions about the pods. I have more about what happens after everyone has finished training. I'll ask those separately. There was a console demonstration after the tour and I wanted to be on time.
 
@@ -255,11 +293,13 @@ Title: Mission Day 002 — Entry 3
 Release point: Day 002, entry 3
 Requires read: none (journal)
 
-The AI does most of the work. We get involved when it can't get someone past a level. We can review what happened and help it decide what to change.
+The AI does most of the work. We get involved when it gets stuck. We use the console to review what happened and help it decide what to change.
 
 Today's example wasn't a real person. I found the goal, the ghost, and the request for help without much trouble. I kept looking for another part of the instructions, but that was all we were supposed to do today. Tomorrow we practice making changes.
 
-We can work with several agents because they don't need us all the time. I had been imagining sitting through every session.
+We can work with several agents because they don't need us all the time.
+
+There is a short guide to reading the historical settings. Date and place first. From what I see so far, the world is a very different place. The colors, the sounds, the smells. It's all so foreign to me, it makes me wonder if the former me ever left the campus.
 
 Bedtime refresh was green too. I still have questions, but I know where to take most of them now. The advisor is the exception. Her name hasn't appeared in any of the files I've read.
 
@@ -273,17 +313,23 @@ Requires read: none (journal)
 
 More files this morning, including a list of questions the archivist has been getting. Several were mine. Apparently I wasn't the only one asking what we were here to do.
 
-There are a little fewer than three hundred people still to finish training. We were kept until last because we had the highest potential operator scores. I had assumed last meant there weren't many choices left. It seems we were the choices they were saving.
+There are a little fewer than three hundred people still to finish training. There isn't another cohort waiting to take over after us.
 
-No individual scores in the file. I don't remember being assessed.
+Twenty-four of us are supposed to finish this for everyone. I read that part twice.
 
 The FAQ explains what the advisor was supposed to do. It doesn't say who ours was or where to find her. The last instruction in that section is to ask her for more information.
 
-We practiced placing a seed. In the example, the agent kept walking past someone who needed help. I placed the seed on an object beside that person, where the agent was already looking. On the next run, they noticed the person and stopped.
+The agent needed to take a free trip north, but he wasn’t going. I checked the area. The weather was pretty different. I took an NPC from the north and made them a traveler with a coat to spare.
 
-The AI asked me to describe what had changed. That part took longer than choosing where to put it. I could see where I wanted it before I had an explanation written down.
+First run, he didn't notice. You can't put a seed on an angel, and he wasn't looking at anything around the traveler either. I looked through the seed options for something that would draw his attention. A mouse could move into his path. I placed a seed on it and had it run across the walkway toward the traveler. He stopped, then refused the coat. Closer, but I needed more.
 
-We also went through an angel demonstration. A shopkeeper was programmed to offer a coat. Still a shopkeeper, with a reason to make the offer. Once the coat was handed over, it stayed out of their stock in the next simulation. You can't place seeds on angels, which makes their use a bit tricky. I'm not sure how any of us could learn an agent so well to be able to predict their moves when the AI fails. I guess we'll see.
+Looking back through the data, I saw a brief rise in excitement at the offer, followed by what I interpreted as guilt. I tried again, this time making the traveler sensitive to heat so they would be visibly uncomfortable in the coat. Taking it would become a favor rather than feeling like theft.
+
+It worked! He took the coat and the trip.
+
+The whole experience was much more like a game than I expected. I lost track of time until the console started beeping at me to eat.
+
+I liked the clothes in the Meiji setting. One woman's kimono had tiny white shapes repeated across dark blue cloth. Another had flowers that only showed when she moved her sleeves. I kept turning back to look. Less interested in the smell of fish cooking beside the walkway. I'll ask the archivist for more about the clothes.
 
 Refresh was green. Lunch with the same six.
 
@@ -303,6 +349,10 @@ Quick math and that means we each get about 3 days for the most tricky of cases.
 
 The individual exercise followed the same steps as this morning. Review what happened, make a change with the AI, look at the result. I completed it without needing to go back to the instructions. The examples are constructed, though. Tomorrow there will be someone on the other end.
 
+Read the Germany sheet after practice. An empire, a republic, then another government. Two wars in the dates covered. A lot to change while someone is still living in the same house. I wonder how much of the game changes around them.
+
+I'm not really sure what they mean by war. I know the word. I keep picturing the security bots, but there weren't any in these places. I'm not sure I want to think about it. I feel like there is a memory of a conflict somewhere close to me and I don't like it.
+
 Refreshed afterward. Green again. My work schedule is in the console.
 
 END RECORD
@@ -317,9 +367,11 @@ Walked after dinner. There were farming bots working beyond the path. One repeat
 
 I felt quite at ease by the bots, like when I first opened my eyes on they ship. 
 
-I long for nothing. I can feel a desire to be back on the ship, but its far from a craving. More like a deep knowing one day I will return.
+I can feel a desire to be back on the ship, but its far from a craving. More like a deep knowing one day I will return.
 
 The Mission ends with everyone in the Artifact and the Artifact on the Bridge. I still have questions about what follows, but they don't change where I need to be tomorrow.
+
+Read the Hawaii sheet before bed. Several communities and languages, not one set of customs for everyone. There is a music section. I only skimmed it.
 
 Bedtime refresh: green. First assignments in the morning.
 
@@ -331,15 +383,15 @@ Title: Mission Day 004 — Entry 1
 Release point: Day 004, entry 1
 Requires read: none (journal)
 
-First assignments this morning. Several agents at different points in training. One was already in Hawaii. I had expected everyone to start at the beginning with me so it threw me off.
+First assignments this morning. Several agents at different points in training. One was already in Hawaii. I had expected everyone to start at the beginning with me.
 
-After 2 failed rounds, I reviewed the ghost. There was a moment before the agent turned when their attention changed. I could follow it more easily from the ghost than from watching the room. That's how I knew where to plant the seed.
+After two failed rounds, I took the console code to the nurses' station and reviewed the ghost. Honolulu, 1938. Warm air on my skin, salt and flowers together. The water was so bright I wanted to stop and look. I hadn't imagined somewhere could feel like this.
 
-Being in a ghost was pretty surreal. I don't have a pod in my room, so I needed to go to the nurses station and give them a code from the console from my work in progress. I got in the pod like for a refresh, but instead of just suddenly being awake, I was quite aware of my surroundings, which were completely surreal. Hawaii is beautiful. I could smell the ocean. I couldn't control my body or where I looked or anything else though. It was a little frustrating, but then I'd remember I was trying to solve a puzzle, not tourism and got to work. I was able to rewind and go in slow motion. I could see what the AI had been trying to set up, but based on where this agent kept looking, there was a real disconnect. I wasn't sure why the AI couldn't pick that up. 
+Somewhere behind us a guitar was playing, the notes sliding into one another. I wanted to turn toward it, but the agent was watching a doorway. All of that warmth and sound coming through as if I were there, and I couldn't even choose where to look. Strange. Also wonderful. I replayed the walk before I remembered what I was supposed to be reviewing.
 
-There was one option in the ghost where I got to pause and look around and place the seed. That was pretty neat because suddenly I was just in the area. I'd be lying if I didn't say I walked over to the ocean and touched it. It didn't feel like anything though, not even wet. I placed the seed after that and returned to my room.
+In paused exploration I went down to the water and touched it. No sensation, not even wetness. A moment before I could feel the breeze. Now I could go where I wanted, but couldn't feel the water.
 
-The session was over in about twenty minutes. Another was still running when I finished my refresh.
+Returned to the doorway and found where the agent's attention moved away. Back at the console, I placed a seed on the parcel beside it. The next session took about twenty minutes.
 
 END RECORD
 
@@ -349,11 +401,13 @@ Title: Mission Day 004 — Entry 2
 Release point: Day 004, entry 2
 Requires read: none (journal)
 
-Everyone had a story at lunch. F spent a long time choosing an object for a seed and then watched the agent walk straight past it. Another operator had placed a seed on an object the agent noticed, but they did nothing useful with it. Someone else changed one small detail and was still trying to explain why it worked. I was the only one who had success with an angel.
+Everyone had a place to describe at lunch. F had been in a Japanese street where some people wore kimono and others wore jackets and trousers. He thought the clothes belonged to different periods. The reference sheet said they could belong to the same one.
 
-I didn't have much to add beyond that. The AI understood what I wanted even when I wasn't precise about how to build it.
+S liked the formal clothes. T wanted to know how anyone worked in them. I mentioned the guitar. None of us could reproduce the sound particularly well.
 
-This afternoon I programmed a shopkeeper in Level 33 to offer the agent a coat. The offer had to fit the person already there. That was trickier and it took 4 tries. The agent just wasn't acting the way I would have expected, but after reading through past sessions I could see overlaps with previous ghosts that made the agent want to avoid the situation. Once I figured that out, the AI integrated the change. The agent took the coat and passed the level. The coat was no longer in the shopkeeper’s stock afterward.
+There were more differences in faces, languages, and dress than I had expected from the short orientation examples. F had tried to work out who held authority by looking at their clothes. He had been wrong twice.
+
+I enjoyed the afternoon as much as the practice runs. More voices, rooms, food I could taste without having chosen it. Sometimes I caught myself thinking about what I wanted to try next, then remembered there was a real person on the other side. To them, it was real. I need to keep that in mind.
 
 END RECORD
 
@@ -363,11 +417,11 @@ Title: Mission Day 004 — Entry 3
 Release point: Day 004, entry 3
 Requires read: none (journal)
 
-No one finished their full training today, but several moved forward. Most of my time was spent looking at the parts where the AI had asked for help. Between those, the sessions continued without me.
+Kept thinking about Hawaii over dinner. The other places were still there too. Faces, sleeves, rooms I had passed through. But mostly the water. I wanted another look at it in motion, and to turn toward the guitar this time.
 
-Refreshes were green. I was ready for dinner by the end of the afternoon.
+I wonder if I can ask for a place in a refresh. Not an assignment. Just somewhere to be for a while. I'll ask the nurse.
 
-I was planning to visit the archivist after dinner, but I really needed that last refresh. It almost felt like I lived a few lifetimes today.
+No one finished their full training today, but several moved forward. Refreshes were green. I had planned to visit the archivist after dinner. Left it for another day.
 
 END RECORD
 
@@ -377,11 +431,15 @@ Title: Mission Day 005 — Entry 1
 Release point: Day 005, entry 1
 Requires read: none (journal)
 
-The agent from Level 33 yesterday reached Level 53. The shopkeeper from yesterday was there again, but it seemed like ages had passed for them.
+One of yesterday's agents had moved much further along. I went back through the earlier ghost to compare. Same quick smile, same habit of leaning into a conversation. I could still recognize him.
 
-The coat wasn't back in their stock. The AI had retained the offer and what happened afterward. The agent recognized the shopkeeper and went back when they could have left. That decision turned out to be the part they needed to get through.
+Before, he had kept flirting with a woman after learning she was married. Found another question to ask whenever the conversation was about to end.
 
-It seems the levels aren't entirely waiting in a fixed order. What we do in one becomes material for another. I want to keep track of that without assuming every familiar face was placed for the same reason. The AI seems to groom the goals and levels specific for the person. I haven't had reason to rewrite and reset a world, but I think I'll add that to the questions I have for the archivist.
+Today there was a similar encounter. The attraction reading jumped. I expected him to stay, but he wished her a good afternoon and left. No obvious struggle. He still wanted to keep talking. He just didn't.
+
+I suppose this is what A-HAVA is meant to do. Still, yesterday he couldn't leave it alone. I guess it was a day for me. Many more for the agent. 
+
+I replayed the goodbye. It looked so ordinary.
 
 END RECORD
 
@@ -391,15 +449,13 @@ Title: Mission Day 005 — Entry 2
 Release point: Day 005, entry 2
 Requires read: none (journal)
 
-My first person completed training today. A different agent, the one already in Hawaii when they were assigned to me yesterday.
+My first person completed training today. The agent already in Hawaii. I had only helped with the final part.
 
-I had only helped with the final part. There was a great deal before that which I hadn't seen. The AI confirmed completion, and later the console confirmed their transfer into the Artifact.
+The AI confirmed completion, and later the console confirmed their transfer into the Artifact. I stayed looking at that for a while.
 
-I stayed looking at the confirmation for a while. It was satisfying. There wasn't anything else I needed to do for them.
+At lunch B described a room where everyone stopped talking when one person entered. He had assumed they were pleased to see him. Apparently not. S said she preferred places where people said what they meant. F wasn't convinced we always did that here either.
 
-I told the others at lunch. Then we compared the morning's work, much as we had yesterday. There were more successful seeds and fewer questions about where things were in the console.
-
-H has an agent called Prisoner 285. A somewhat strange tag, but who knows how the AI chooses them. Operator G handed him over yesterday -- the first handoff of the cohort. H said the world felt different from the others he'd seen. Very specific, and the agent's reactions were odd. He was still working out the basics of reviewing a ghost, though, so we spent more time comparing the controls than talking about the agent.
+H has an agent called Prisoner 285. A somewhat strange tag, but who knows how the AI chooses them. Operator G handed him over this morning—the first handoff of the cohort. H said the world felt unusually specific and the agent's reactions were odd. He was still getting used to ghost review.
 
 END RECORD
 
@@ -409,9 +465,15 @@ Title: Mission Day 005 — Entry 3
 Release point: Day 005, entry 3
 Requires read: none (journal)
 
-The afternoon was more of the same. A request, a ghost to review, a change to make. Sometimes the AI needed a direction rather than a detailed instruction. So far, the system seems to work the way I expect it to.
+I found the music reference. Steel guitar. The instrument is familiar; the way it was played wasn't.
 
-One ascension. The others are still progressing. I refreshed after the sessions and again before bed. Green.
+There are recordings I can ask the archivist for. I hadn't considered using the archive for something I simply wanted to hear again.
+
+Dinner sounded different tonight. Everyone had something they wanted to tell us about. We seem to be settling into it, and mostly enjoying ourselves.
+
+H was quieter. His other sessions had gone well, but he still couldn't get Prisoner 285 moving. He seemed disappointed when he said it. Then F asked him about one of the places he'd liked, and he stayed talking with us.
+
+The afternoon requests went smoothly. The system seems to work the way I expect it to. One ascension. Refresh after work and again before bed: green.
 
 END RECORD
 
@@ -453,11 +515,17 @@ Title: Mission Day 006 — Entry 3
 Release point: Day 006, entry 3
 Requires read: none (journal)
 
-Back to the console for the remaining work. No new ascensions today. The agents are progressing, and I still seem to find the changes they need without much difficulty.
+An afternoon ghost was set in Berlin, 1943. The request concerned a conversation near a railway goods yard. I was looking for the person the agent had avoided when I noticed the people beside a train.
 
-I walked after dinner. I had been so lost in the Fall discussion that I forgot to ask about total world resets and agent transfers.
+They carried bags. Guards were directing them into freight cars. Something felt wrong about all of it. The contempt in the voices giving orders. People obeying without looking up, some moving as if it hurt. A small child stood in a puddle of pee. Nobody stopped.
 
-Bedtime refresh: green.
+I couldn't get the child out of my head. It took me a while to remember what I had come to review.
+
+I asked the console AI about the train. It kept bringing me back to the conversation and the agent's goal. Had it noticed what was happening beside them? If it didn't affect that goal, did it count at all?
+
+Refresh was green, with a warning that I was close to yellow. The recommendation was to take tomorrow morning off. I accepted it. The AI reassigned the outstanding requests.
+
+Dinner was difficult. I left most of it. Bedtime refresh remained green. I'm not sure I want to know more about what was going to happen.
 
 END RECORD
 
@@ -467,13 +535,13 @@ Title: Mission Day 007 — Entry 1
 Release point: Day 007, entry 1
 Requires read: none (journal)
 
-The archivist sent two files. They were waiting beside my work schedule this morning. I read the one about the lost connections over breakfast.
+No assignments this morning. I ate slowly and walked beyond the fitness buildings. The farming bots were already working. I sat where I could hear them without seeing the rows.
 
-The machines didn't all have to break. They could still be there, with nothing useful to do because the instructions were somewhere they couldn't reach. That explains why there was equipment worth recovering afterward.
+F asked whether I had gone yellow. Still green. The warning came before that. He seemed relieved, then asked about the train. I said it had been unpleasant and asked how his morning was going. I didn’t want to go through it again.
 
-The city file didn't have the population numbers I was looking for. It did point out that the number of pods on the ship wasn't an answer. I suppose I had been using the only large number I knew.
+I read the two files the archivist had sent about the Fall. Working machines could lose the instructions they needed without anything physically breaking. The city file still didn't answer how many people there had been.
 
-F asked whether the files answered the question about the bots. Mostly. The ones working without wires now carry what they need for their particular job. The ones needing more information are connected. The archivist is still the example I keep thinking of.
+There was also an old advertisement attached to the city reference. Bring Purpose Back. After Hawaii, I can see the appeal. That warmth, the water, a whole life there instead of a short visit. If I hadn’t come from the Artifact, I wonder how willing I’d be to leave that for the Institute. I still want to return to the ship. Wanting another afternoon in Hawaii doesn’t change that.
 
 END RECORD
 
@@ -483,13 +551,13 @@ Title: Mission Day 007 — Entry 2
 Release point: Day 007, entry 2
 Requires read: none (journal)
 
-Work went smoothly. One seed drew the agent's attention, but they didn't act on it. I went back through the ghost before changing anything. Noticing and deciding to help are separate things. I knew that from the instructions. It was more apparent watching someone notice and then leave.
+Last night I didn't want to know. After sleeping, I thought better to be prepared. I had the morning free, so I asked the archivist about the train.
 
-The AI and I changed the circumstances for the next session. The agent stayed this time. Another request was ready by then.
+It located the setting: some train station in the capital of Germany. The people were being deported due to their religion. That didn't really explain what I'd seen, but all my questions seemed to go in circles.
 
-I have more patience for reviewing the result now. The first few days I was mainly pleased when a change worked. Today I wanted to see which part had worked.
+I asked why A-HAVA used this period at all. The archivist said it had been chosen deliberately, for the choices people faced within it. It quoted Evelyn: “Sometimes the worst evils make the greatest rebirths."
 
-Refresh was green. I had enough time after lunch to finish the city file.
+I read that again. Then closed the file. I kept it to myself at lunch.
 
 END RECORD
 
@@ -499,28 +567,28 @@ Title: Mission Day 007 — Entry 3
 Release point: Day 007, entry 3
 Requires read: none (journal)
 
-I still want to know what an ordinary day in one of those cities looked like. The file describes the pods and the vessels, but not much of what people chose to do with them. I'll ask for something from before the Fall next time.
+After lunch I left the files closed and kept the rest of the day free. Reading more wasn't helping. Walked the longer path, then spent some time in the fitness room.
 
-World resets and the transfers are still on my list too.
+There was a game night at the pub. I joined F and S for cards. Somewhere in the middle of it I realized I was thinking about the hand in front of me, not the train. I stayed for another game.
 
-One week. I can find my way around, use the console, and usually help when the AI asks. One person has completed ascension with my help. I still don't remember my name.
+By the end of my bedtime refresh, the train felt distant. Still something I had seen, but no longer the thing I saw whenever I stopped doing something else.
 
-Bedtime refresh: green. I'll leave the remaining questions for another visit.
+Green. One week outside. It's hard to think of how much has changed since then.
 
 END RECORD
 
 ## Record: REC-O001
 
-Title: Day 001 — Arrival and Welcome
+Title: Orientation — Day 1
 Release point: Day 001, entry 1
 Requires read: REC-J001-1
 
-# Day 001 — Arrival and Welcome
+# Orientation — Day 1
 
 Source: A-HAVA Orientation  
-Release: Mission Day 001, available when you first open your console
+Release: Mission Day 001, immediate availability
 
-Welcome to campus. Today is reserved for settling into your quarters and meeting your cohort. Your advisor from the previous cohort will introduce your duties over dinner.
+Welcome to the A-HAVA Institute. Today is reserved for settling into your quarters and meeting your cohort. Your advisor from the previous cohort will introduce your duties over dinner.
 
 ## Schedule
 
@@ -558,45 +626,17 @@ Requires read: REC-J002-1
 
 Source: A-HAVA Orientation
 
-## Orientation Schedule
-
 | Time | Activity | Reference released afterward |
 | --- | --- | --- |
 | 08:00 | Breakfast with your group of six | — |
-| 09:00 | Campus orientation | Campus Life and Access [REC-O004] |
-| 10:00 | Refresh introduction and guided session | Operator Refresh [REC-O005] |
+| 09:00 | Campus orientation | Campus Life and Access [REC-O004]; Campus Map and Lobby Guide [REC-O012] |
+| 10:00 | Refresh introduction and guided session | Operator Refresh [REC-O005]; HAVA Pod — Illustrated Guide [REC-O015] |
 | 11:30 | Archive introduction | Using the Archive [REC-O006] |
 | 12:30 | Lunch | — |
-| 13:30 | Escorted ship tour | Ship Tour Reference [REC-O007] |
-| 15:00 | Operator-console demonstration | Operator Console: First Use [REC-O008] |
+| 13:30 | Escorted ship tour | Ship Tour Reference [REC-O007]; Ship Orientation Diagram [REC-O013] |
+| 15:00 | Operator-console demonstration | Operator Console: First Use [REC-O008]; What Is A-HAVA? [REC-O014]; Reading a Historical World [REC-O016] |
 | 16:30 | Individual console familiarization | Previously released console reference |
 | Evening | Dinner, free time, and bedtime refresh | Previously released refresh reference |
-
-END RECORD
-
-## Record: REC-O003
-
-Title: Day 003 — Practice and Readiness
-Release point: Day 003, entry 1
-Requires read: REC-J003-1
-
-# Day 003 — Practice and Readiness
-
-Source: A-HAVA Orientation
-
-## Orientation Schedule
-
-| Time | Activity | Reference |
-| --- | --- | --- |
-| 08:00 | Breakfast with your group; remaining orientation files released | Archivist FAQ [REC-O009] |
-| 09:00 | Cohort purpose and selection | FAQ: the Mission and this cohort |
-| 10:00 | Guided intervention practice | Practice and Readiness [REC-O010] |
-| 12:00 | Refresh, followed by lunch | Operator Refresh [REC-O005] |
-| 13:30 | Managing several training examples | Practice and Readiness |
-| 15:00 | Failed sessions, attempt limits, and handoffs | Sessions and Handoffs [REC-O011] |
-| 16:00 | Individual readiness exercise | Practice and Readiness |
-| 17:00 | Refresh and next-day work schedule | Sessions and Handoffs |
-| Evening | Dinner, free time, and bedtime refresh | Operator Refresh |
 
 END RECORD
 
@@ -621,7 +661,9 @@ Your group provides familiar company while you settle into campus life. Members 
 
 Outside operator hours, time is available for meals, exercise, walking, and rest. Use the permitted campus paths and nature areas. The nurses' station supports operator care, and the archive is available for questions about campus life and its history.
 
-Robots perform specific work. Farming bots farm; cleaning bots clean. Robots requiring active data use wired connections. Wireless robots carry out limited operations associated with their assigned jobs.
+Robots perform specific work. Farming bots farm; cleaning bots clean. You should be able to figure out a bot's responsibility by watching it. If you're confused or looking for something specific, ask the guide in the lobby.
+
+The campus once served thousands of residents. Its library, fitness facilities, sports arena, pub, recreation rooms, and gardens provide places to spend time outside work. The Campus Map and Lobby Guide [REC-O012] groups these destinations around the central lobby. The library includes reading and study spaces; archive records remain under the archivist's control.
 
 ## Agent Quarters
 
@@ -640,6 +682,42 @@ Robots cannot enter the Transfer Chamber or Bridge, approach the Artifact, or pe
 Pod interfaces are strictly secured. Pods and the equipment used to interact with them require wired connections. Wireless campus devices cannot be used to connect to a pod. Follow the nurses' station procedures for refreshes and ghost review.
 
 For further guidance on settling into operator life, see advisor from previous cohort.
+
+END RECORD
+
+## Record: REC-O012
+
+Title: Campus Map and Lobby Guide
+Release point: Day 002, entry 1
+Requires read: REC-J002-1
+
+# Campus Map and Lobby Guide
+
+Source: A-HAVA Orientation
+
+Release: Mission Day 002, after campus orientation
+
+![Campus overview and central-lobby wayfinding](media/campus-orientation.png)
+
+The campus served thousands of residents during earlier phases of training. Its dining, learning, recreation, and care facilities extend well beyond the needs of your current cohort. This guide groups destinations around the central lobby; it is not a measured building plan.
+
+## From the Central Lobby
+
+- Library and Archive: reading and study rooms, with the archivist desk for controlled records and questions. Library access does not grant access to every archive record.
+- Cafeteria and residential quarters: meals, operator accommodation, and common rooms.
+- Care Centre: nurses' station and refresh pods. Pod interfaces remain secured and wired.
+- Fitness and Sports Arena: exercise facilities, courts, and spectator seating.
+- Pub and recreation rooms: places to meet outside operator hours.
+- Gardens and courtyard: Evelyn's memorial plaza and connections to the outdoor walking paths.
+- Assembly and learning facilities: hall, classrooms, and workshops.
+
+## Boundaries
+
+The East Wing contains agent quarters and training pods. Operators do not enter it. The path toward the ship does not authorize entry: ship visits require an escorted orientation or a scheduled duty. Robot maintenance and service buildings are not recreational areas. Keep to permitted paths through the cultivated grounds.
+
+## Diagram Description
+
+The overhead panel places the ship beyond the central campus and the East Wing to the right of the lobby. Library, dining, residential, care, and recreation destinations surround the lobby. An outer walking loop connects the gardens and recreational areas. A separate lobby panel groups the destinations into directional signs. Lines show general connections, not specific doors, distances, or security bypasses.
 
 END RECORD
 
@@ -668,9 +746,11 @@ Your first guided refresh is included in orientation. Actual agent assignments b
 
 | Result | Meaning | Required response |
 | --- | --- | --- |
-| Green | Your assessed condition is good. | Continue your routine. |
+| Green | Your assessed condition is good. | Continue your routine unless accompanying guidance recommends rest. |
 | Yellow | Time away from operator work is required. | Follow the recovery process below. |
 | Red | You cannot return to the Artifact. | A return is no longer possible. No operator has received this result. |
+
+A green result may warn that you are approaching yellow and recommend time off. Follow that guidance. This remains a green result and does not begin the three-day yellow recovery period.
 
 ## Yellow Recovery
 
@@ -686,6 +766,41 @@ For further guidance on maintaining your daily routine, see advisor from previou
 
 END RECORD
 
+## Record: REC-O015
+
+Title: HAVA Pod — Illustrated Guide
+Release point: Day 002, entry 1
+Requires read: REC-J002-1
+
+# HAVA Pod — Illustrated Guide
+
+Source: A-HAVA Orientation
+
+Release: Mission Day 002, after the refresh introduction
+
+![HAVA pod with labeled cover, biofeedback harness, support cradle, and secured wired connection](media/hava-pod.png)
+
+This illustration shows the configuration operators use for refresh, with the cover raised to make the interior visible. The occupant demonstrates the harness arrangement; they are not an identified agent or operator.
+
+Agents live in HAVA pods in submerged mode, much as pre-Fall VR residents did. This allows automated systems to collect additional biofeedback and attend to their biological functions.
+
+The biofeedback harness connects the person to the pod's monitoring interface. The system collects neural activity and other physiological data, including skin and saliva biofeedback, eye movement, and pupil response.
+
+## Labeled Components
+
+- Cover: the hinged outer enclosure, shown open for orientation.
+- Biofeedback harness: the fitted contact assembly connecting the occupant to the monitoring system.
+- Support cradle: the padded reclining surface supporting the body.
+- Secured wired connection: the physical pod interface. Access follows the nurses' station procedures; wireless campus devices cannot connect to it.
+
+HAVA pods support training, refreshes, and ghost review. These uses are distinct procedures.
+
+## Image Description
+
+A black pod is shown at an angle with its curved cover raised. A clothed demonstration occupant reclines on green cushioning. Contact assemblies at the chest, wrists, and head connect to the pod by visible cables. A substantial wired connection enters a locking port near the base. Fine leader lines identify the four labeled components. This is an orientation illustration rather than an engineering specification.
+
+END RECORD
+
 ## Record: REC-O006
 
 Title: Using the Archive
@@ -697,7 +812,7 @@ Requires read: REC-J002-1
 Source: A-HAVA Orientation  
 Release: Mission Day 002, after archive introduction
 
-The archivist monitors and controls archive information. You may ask questions about the history and stories of the Great Fall, life before the Fall, daily operations on campus, and prominent A-HAVA figures. You may also ask for help locating information relevant to your duties.
+The archivist monitors and controls archive information. You may ask questions about the history and stories of the Great Fall, daily operations on campus, and prominent A-HAVA figures and history. You may also ask for help locating information relevant to your duties, including historical customs, technology, music, and institutions in a particular place and year. These general references do not contain other operators’ journals or individual agent case histories.
 
 You do not need to know a document's title before asking a question.
 
@@ -732,6 +847,8 @@ Release: Mission Day 002, after the escorted ship tour
 
 The ship arrived during the Great Fall, approximately one thousand years ago. The campus was built around it. This reference identifies the principal spaces included in orientation.
 
+See the Ship Orientation Diagram [REC-O013] for a schematic of the principal spaces. It is not a measured floor plan.
+
 ## Transfer Chamber
 
 The Transfer Chamber is a small white room containing a single ship pod and a podium. The white cube placed on the podium is the Artifact.
@@ -756,6 +873,34 @@ Robots guard outside the Transfer Chamber and Bridge; they cannot enter these ro
 
 END RECORD
 
+## Record: REC-O013
+
+Title: Ship Orientation Diagram
+Release point: Day 002, entry 2
+Requires read: REC-J002-2
+
+# Ship Orientation Diagram
+
+Source: A-HAVA Orientation
+
+Release: Mission Day 002, after the escorted ship tour
+
+![The Stacks, Bridge, and Transfer Chamber](media/ship-orientation.png)
+
+This diagram identifies the ship's principal spaces. It is a schematic of their relationship, not a complete floor plan or an indication of their relative sizes.
+
+The Stacks form the surrounding circular pod chamber, with approximately nine million places for bodies in stasis. The Bridge and the adjacent Transfer Chamber are shown inside that surrounding structure. The Bridge contains the podium that interfaces the Artifact with the ship. The Transfer Chamber contains a single ship pod and a separate podium used with the Artifact for transfers.
+
+Campus A-HAVA pods provide training, refreshes, and ghost review. They are not the white ship pods shown here. The Artifact is one object used at different podiums; the diagram does not imply that each room has its own Artifact.
+
+Your tour does not grant continuing access. Security bots guard outside the Bridge and Transfer Chamber; robots cannot enter those rooms, approach the Artifact, or perform transfers.
+
+## Diagram Description
+
+A ring represents the Stacks. Two adjacent labeled blocks within the ring identify the Bridge and Transfer Chamber. The labels specify each room's function. The diagram contains no additional rooms, concealed connections, or transfer-route instructions.
+
+END RECORD
+
 ## Record: REC-O008
 
 Title: Operator Console: First Use
@@ -772,6 +917,8 @@ A-HAVA prepares agents for ascension through AI-managed training. Most people pr
 Training work takes place through the console. You do not meet the agent in person during training.
 
 Agents are identified by random anonymous tag names. A tag identifies an assignment without providing the person's real identity. It is separate from the access code used for a ghost-review session at the refresh pods.
+
+For an overview of the purpose of training and the operator’s role, see What Is A-HAVA? [REC-O014].
 
 ## Working Terms
 
@@ -796,6 +943,8 @@ Review the experience from the ghost perspective. Work with the AI to understand
 
 The AI continues routine work between requests for your involvement. An operator can therefore assist several agents without attending continuously to every session. Refresh after agent training sessions as covered in your maintenance instructions.
 
+For setting-specific preparation, read Reading a Historical World [REC-O016]. The archivist can provide dated local references.
+
 ## Today's Exercise
 
 Open the constructed training example provided in the demonstration. Locate its level goal, review the supplied ghost, and find the AI's request for assistance. Become familiar with where an intervention would be prepared and where its outcome would be reviewed.
@@ -803,6 +952,93 @@ Open the constructed training example provided in the demonstration. Locate its 
 This example is an exercise, not an assigned person. Today is for finding your way around the console. Guided intervention practice and readiness exercises follow on Day 003. Actual assignments begin on Day 004.
 
 For further guidance on your responsibilities, see advisor from previous cohort.
+
+END RECORD
+
+## Record: REC-O014
+
+Title: What Is A-HAVA?
+Release point: Day 002, entry 3
+Requires read: REC-J002-3
+
+# What Is A-HAVA?
+
+Source: A-HAVA Orientation
+
+Release: Mission Day 002, after the operator-console introduction
+
+A-HAVA stands for Ascending Harness Activated Vessel Agent. It prepares people to coexist with other human essences inside the Artifact. The A-HAVA Institute is the institution where that training takes place.
+
+The system builds on HAVA, the technology that lets a person experience a simulated world while their body remains in a pod. Evelyn Burroughs developed A-HAVA for ascension training. The campus pods support that training; integration into the Artifact takes place separately aboard the ship.
+
+## Learning Through Experience
+
+An agent is the person undertaking training. Their vessel is the simulated character they inhabit. Across worlds and levels, agents encounter situations in which their responses matter. A level has a defined goal; progress depends on the agent's response, not simply on time spent in the simulation.
+
+The AI manages routine training and adapts circumstances to the person. Human operators assist when the AI cannot produce further progress. You may help several agents because most sessions proceed without your continuous involvement. Your work is conducted through the console and recorded experiences, without meeting the agents physically.
+
+## Reviewing and Intervening
+
+A ghost is a fixed record of an agent's session. Reviewing it helps you understand what they noticed, what they chose, and where progress stopped. Reviewing a ghost does not alter that recorded history.
+
+A seed is placed on an object or person to draw the agent's attention through a brief sixth-sense response. It does not decide what they do next.
+
+An angel is an NPC programmed with a function that nudges the agent in a direction. An offer of a job or clothing may serve that purpose, provided it fits the NPC's established character and role. The addition and its consequences persist into future simulations: an item supplied is no longer with the NPC. A seed cannot be placed on an angel.
+
+Today's console example introduces the work. Tomorrow's practice covers the tools and procedures in detail. No real agents are assigned during orientation.
+
+## Your Own Condition
+
+Refresh sessions assess Maat and Chaos while you work outside the Artifact. Follow the care guidance and your measured results. A refresh is distinct from a training session or ghost review.
+
+See advisor from previous cohort for further guidance.
+
+END RECORD
+
+## Record: REC-O016
+
+Title: Reading a Historical World
+Release point: Day 002, entry 3
+Requires read: REC-J002-3
+
+# Reading a Historical World
+
+Source: A-HAVA Orientation
+Release: Mission Day 002, after the console demonstration
+
+Start with the scene's date and location. The worlds run through changing societies; a world name alone does not tell you which government, technologies, or customs apply.
+
+Observe who knows whom, who can make an offer, and who is free to refuse it. Clothing, language, and forms of address can provide clues, but do not establish a person's motives or authority by themselves. Appearance does not reliably identify nationality, religion, or allegiance.
+
+A seed draws attention. Choose its host with an understanding of what the person or object means in this scene. Attention does not guarantee agreement or action.
+
+An angel remains the existing NPC. A shopkeeper may have goods to offer; that does not make them a doctor, employer, or official. Check the person's circumstances and what remains in their possession before programming an opportunity. Earlier additions and their consequences persist. Never place a seed on an angel.
+
+Ask the archivist for historical context when needed. Ordinary reference material explains the setting; it does not reveal an agent's private history or prescribe the choice they will make.
+
+END RECORD
+
+## Record: REC-O003
+
+Title: Orientation — Day 3
+Release point: Day 003, entry 1
+Requires read: REC-J003-1
+
+# Orientation — Day 3
+
+Source: A-HAVA Orientation
+
+| Time | Activity | Reference |
+| --- | --- | --- |
+| 08:00 | Breakfast with your group; remaining orientation files released | Archivist FAQ [REC-O009] |
+| 09:00 | Cohort purpose and selection | FAQ: the Mission and this cohort |
+| 10:00 | Guided intervention practice | Practice and Readiness [REC-O010]; Japan reference [REC-O017] |
+| 12:00 | Refresh, followed by lunch | Operator Refresh [REC-O005] |
+| 13:30 | Managing several training examples | Practice and Readiness; Germany reference [REC-O018], after practice |
+| 15:00 | Failed sessions, attempt limits, and handoffs | Sessions and Handoffs [REC-O011] |
+| 16:00 | Individual readiness exercise | Practice and Readiness |
+| 17:00 | Refresh and next-day work schedule | Sessions and Handoffs |
+| Evening | Final preparation, dinner, free time, and bedtime refresh | Hawaii reference [REC-O019]; Operator Refresh |
 
 END RECORD
 
@@ -829,7 +1065,7 @@ A-HAVA prepares people to coexist safely with other human essences inside the Ar
 
 ## How many people remain?
 
-A little fewer than three hundred people remain to complete ascension training. Your cohort is responsible for helping them progress. Individual assignments begin on Mission Day 004.
+About 300 people remain to complete ascension training. Your cohort is responsible for helping them progress. Individual assignments begin on Mission Day 004.
 
 ## Why were we awakened last?
 
@@ -878,21 +1114,9 @@ Today’s exercises use constructed scenarios and supplied session records. They
 
 ## Morning: An Intervention
 
-Open the demonstration from your console. Read its goal, then review the supplied ghost from the agent’s perspective.
+Open the practice session at your console. The AI will ask for help when the agent is not progressing toward its goal. Review the supplied ghost and practice using angels and seeds to help it achieve that goal.
 
-In this example, an agent repeatedly follows the same route without noticing a person who needs assistance nearby. The exercise asks you to work with the AI to place a seed on an object or person in the level so its brief sixth-sense response draws the agent's attention toward the person needing help. Choose the target of the seed; you do not need to move the target itself.
-
-Review the demonstrated outcome. Record what changed in the agent’s behavior and whether the goal was met. A change in behavior is an observation to examine, not a reason to assume every difficulty has been resolved.
-
-The next demonstration introduces an angel: an NPC programmed with a function intended to steer the agent's choices. Review the NPC's existing character and purpose before choosing the function. A shopkeeper might offer an article of clothing or a job in the shop; programming cannot turn that shopkeeper into a doctor. The NPC is the angel, not the item or opportunity.
-
-Identify the direction the intervention is intended to encourage, then observe the agent's actual response. The function need not be an invitation to help someone, and it does not guarantee the agent will engage.
-
-Review the resulting state in a later simulation. The addition and its consequences must remain: an item supplied by the shopkeeper is no longer in their possession. The later scene continues that history rather than restoring the item and presenting the same offer as new.
-
-Do not place a seed on the angel. The combination creates a deus ex machina effect: the encounter feels too conveniently arranged, causing the agent to reject the simulation. When choosing a person as a seed target in the earlier exercise, confirm that the person is not an angel.
-
-Use the supplied ghost to consider why the agent would approach and talk to this NPC without a seed. Work with the AI on the circumstance and the NPC's behavior, then observe whether that conversation occurs. A plausible opportunity depends on understanding the person, not simply making the angel visible.
+Choose your intervention, review the response, and adjust as needed. Record what you tried and what happened.
 
 ## Afternoon: Several Cases
 
@@ -918,6 +1142,37 @@ For further guidance on beginning operator work, see advisor from previous cohor
 
 END RECORD
 
+## Record: REC-O017
+
+Title: Japan — Everyday Life and Social Expectations
+Release point: Day 003, entry 1
+Requires read: REC-J003-1
+
+# Japan — Everyday Life and Social Expectations
+
+Source: A-HAVA Orientation
+Release: Mission Day 003, morning practice
+
+## Period Bearings
+
+The Meiji period runs from 1868 to 1912. Later scenes belong to different periods; do not carry one scene's assumptions unchanged toward World War II. The state, its institutions, and Japan's imperial reach changed during this span.
+
+## What to Notice
+
+Kimono and Western clothing could coexist during Meiji. Dress varied with occupation, circumstances, and the wearer. A change of clothing does not necessarily indicate a change of date.
+
+Check household and workplace relationships before interpreting deference, silence, or an invitation. Do not assume one gesture has the same meaning for every person. Identify who owns an object and who has permission to offer it.
+
+Japan’s first railway opened in 1872, between Shimbashi and Yokohama. Railways and newer communications belong to a changing infrastructure, not a uniform level of access. Check the particular town and year before adding a journey, message, or manufactured item. An available technology is not necessarily available to this NPC.
+
+## Before Intervening
+
+Review the scene's supplies and relationships. The agent still has to choose the encounter; a historically plausible offer is not a guaranteed result.
+
+For a particular custom, institution, or conflict, request a dated local reference from the archivist. This sheet is an introduction, not a complete history.
+
+END RECORD
+
 ## Record: REC-O011
 
 Title: Sessions and Handoffs
@@ -927,17 +1182,21 @@ Requires read: REC-J003-2
 # Sessions and Handoffs
 
 Source: A-HAVA Orientation  
-Release: Mission Day 003, breakfast
+Release: Mission Day 003, after the afternoon handoff briefing
 
 ## Session Timing
 
-The pod collects neural activity, skin and saliva biofeedback, eye movement, pupil dilation, and other vital readings. The AI reviews these alongside the agent's behavior during each session.
+The pod collects neural activity, biofeedback, and other vital readings. The AI reviews these alongside the agent's behavior during each session.
 
 Successful sessions can be short: a person progressing quickly may complete a session in fifteen to twenty minutes. Failed sessions can take several hours.
 
-A completed session is not necessarily a completed level, and completing one level is not the same as completing ascension training.
+A completed session is not necessarily a completed level, and completing one level is not the same as completing a world or the entire training.
 
-Level 1 is ordinarily straightforward. Only a few people have needed more than three sessions to pass it.
+## Assignment Readiness
+
+The AI selects requests according to operator readiness as well as an agent's need. Some agents wait for suitable operator assistance. Assignments centered on more intense situations are normally deferred until you have spent several weeks outside.
+
+An otherwise manageable setting may contain an unexpected distressing encounter. Report it and follow refresh guidance; assignment screening is not a guarantee about everything you might see.
 
 ## Operator Attempts
 
@@ -959,6 +1218,66 @@ Refresh after agent training sessions and before bed, or whenever you feel a nee
 
 END RECORD
 
+## Record: REC-O018
+
+Title: Germany — Everyday Life and Changing Authority
+Release point: Day 003, entry 2
+Requires read: REC-J003-2
+
+# Germany — Everyday Life and Changing Authority
+
+Source: A-HAVA Orientation
+Release: Mission Day 003, after afternoon practice
+
+## Period Bearings
+
+The German Empire ended in 1918. The Weimar Republic followed; Nazi rule began in 1933 and ended in 1945. World War I and World War II must not be treated as one continuous conflict. Check which institutions hold power at the scene's date.
+
+## What to Notice
+
+A city street can include shops, rail travel, and printed notices. The availability of goods and money changes with the year. In particular, do not reuse prices across the inflation of 1923.
+
+Clothing and forms of address may suggest occupation or expectations, but do not establish someone's beliefs. Ask what a person can actually do within their household, workplace, and legal circumstances.
+
+Check the year and setting before assuming access to a telephone, radio, or private transport. A railway connection does not mean everyone has equal freedom to travel.
+
+## Before Intervening
+
+An offer must fit the NPC's resources and position. Historical restrictions can change what is possible even when the same shop or person appears again. Consult the archivist rather than inventing an exception.
+
+END RECORD
+
+## Record: REC-O019
+
+Title: Hawaii — Community and Everyday Life
+Release point: Day 003, entry 3
+Requires read: REC-J003-3
+
+# Hawaii — Community and Everyday Life
+
+Source: A-HAVA Orientation
+Release: Mission Day 003, final preparation
+
+## Period Bearings
+
+Hawaii's monarchy was overthrown in 1893. U.S. annexation followed in 1898 and territorial government in 1900. These changes were contested; do not describe all residents as sharing one view. The islands were not a U.S. state during the training period.
+
+## What to Notice
+
+Native Hawaiian identity is distinct from simply residing in Hawaii. Communities include people with different languages, ancestries, occupations, and family histories. A person's appearance does not tell you their citizenship, loyalties, or preferred language.
+
+Plantation work, town life, and tourism place people in different circumstances. Check local transport and the person's resources before arranging an opportunity; do not assume movement between islands is immediate.
+
+Music is part of the setting, not merely background. Hawaiian traditions include chant as well as changing song and instrumental practices. Steel guitar is one sound you may encounter in twentieth-century scenes; it does not represent every musical tradition in the islands.
+
+## Before Intervening
+
+Identify the actual relationship between an NPC and the agent before creating an invitation or offer. Do not substitute a general idea of hospitality for that person's established character.
+
+Daily life changed significantly across this period. Consult a reference for the scene's date rather than assuming a familiar place still works the same way.
+
+END RECORD
+
 ## Record: REC-A001
 
 Title: The Fall and the Loss of Connection
@@ -971,7 +1290,7 @@ Source: A-HAVA Archive / Historical Reference
 Compiled by: Archivist  
 Available: Mission Day 007
 
-The Great Fall began with the arrival of the ship, approximately one thousand years before the current Mission. Its arrival produced interference with wireless systems. The term names that initiating event as well as, in common use, the collapse associated with it.
+The Great Fall began with the arrival of the ship on June 6, 2056, approximately one thousand years ago. Its arrival produced interference with wireless systems. The term names that initiating event as well as, in common use, the collapse associated with it.
 
 Pre-Fall devices depended heavily on remote services collectively called the cloud. Instructions and information were available through those connections rather than held entirely within each device. Even routine machines could stop functioning when the connection failed.
 
@@ -981,7 +1300,7 @@ Physical equipment did not have to be destroyed to become unusable. The interrup
 
 Wired technology remained usable. Surviving equipment could be connected directly and repurposed, although the survival of a component did not preserve the larger society around it.
 
-Present-day wireless task robots carry limited instructions and knowledge for their assigned work. Robots requiring active data use wired connections. These are different operating requirements, not a division between functioning and nonfunctioning robots.
+Present-day wireless task robots carry limited instructions and knowledge for their assigned work. Robots requiring active data use wired connections. Some robots work untethered between visits to a base station, where they connect physically to transfer collected data and receive new instructions. These are different operating requirements, not a division between functioning and nonfunctioning robots.
 
 The continuing operation of wired infrastructure made salvage and later reconstruction possible.
 
@@ -1001,6 +1320,8 @@ Available: Mission Day 007
 
 The Monolithic Cities were enormous ocean arcologies where most pre-Fall humans lived. Much of daily experience took place through HAVA while physical bodies remained in pods. AI systems operated the virtual worlds, and robots maintained much of the physical infrastructure.
 
+The first test arcology launched off Oman in 2026 and housed one million people. Demand surged within a few years; rapid expansion brought most of the population into the ocean cities and their pods before the Fall.
+
 A person in a HAVA world was its agent. The character they inhabited was their vessel. Those terms describe a person's relationship to the system, not the purpose of the particular world.
 
 HAVA existed before ascension training. The human-built pods used on campus descend from that technology. They are distinct from the white ship pods associated with the Artifact.
@@ -1011,6 +1332,58 @@ The destruction of the cities did not erase every component or record. Surviving
 
 Recovered material can document aspects of city life without providing a complete account of every resident's fate. This reference does not supply a pre-Fall population total or a verified death toll.
 
-The approximately nine million places in the ship's Stacks describe the ship's capacity. That number alone does not establish how many people lived in the Monolithic Cities before the Fall.
+END RECORD
+
+## Record: REC-A015
+
+Title: Bring Purpose Back — Advertisement
+Release point: Day 007, entry 1
+Requires read: REC-J007-1
+
+# Bring Purpose Back — Advertisement
+
+Source: A-HAVA Archive / Pre-Fall Advertising Collection  
+Format: Recruitment advertisement  
+Available: Mission Day 007, after Entry 1
+
+![An advertisement showing an idyllic waterfront residence and a shared woodworking experience.](../../orientation/day-002/media/bring-purpose-back-advertisement.png)
+
+## Advertisement Text
+
+**BRING PURPOSE BACK**
+
+A place to live. A reason to begin.
+
+Discover arcology living.
+
+## Image Description
+
+A waterfront residence curves around sheltered water, its terraces lined with greenery. Beside it, two people work together at a wooden bench. The advertisement presents both beneath the promise to bring purpose back.
+
+Archive note: The advertiser, location, and exact date are not established by the surviving copy.
+
+END RECORD
+
+## Record: REC-A003
+
+Title: Berlin — Deportation by Rail
+Release point: Day 007, entry 2
+Requires read: REC-J007-2
+
+# Berlin — Deportation by Rail
+
+Source: A-HAVA Archive / Historical Reference
+Available: Mission Day 007, after Entry 2
+Context: Follow-up to the Germany-world scene reviewed on Mission Day 006
+
+The scene is set near Berlin-Moabit freight station in 1943. Transports represented in this simulation were bound for Auschwitz in German-occupied Poland.
+
+Auschwitz was a concentration camp complex. Being sent there was not an ordinary journey or a lawful consequence of wrongdoing by the people deported. Nazi racial persecution targeted people the regime classified as Jewish.
+
+This occurred during World War II but cannot be explained simply as fighting between armies. Civilian institutions, including the railways, participated in deportation.
+
+The simulation's individual people and conversation are constructed. They are not a recovered record of a named victim's final journey. A ghost preserves what occurred in that simulation; it does not replace historical evidence.
+
+Further references are available on the regime, persecution, railway administration, resistance, and civilian life. They need not be read in one sitting.
 
 END RECORD

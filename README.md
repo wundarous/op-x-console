@@ -1,26 +1,18 @@
 # Operator X Console
 
-A thousand years after the Great Fall, humanity is preparing to leave Earth.
+A thousand years after the Great Fall, humanity is preparing to leave Earth aboard the ship that nearly destroyed it.
 
-The ship that nearly wiped out humanity has become their only way out. Within its Artifact, millions of people share an existence beyond the lives they once knew. But coexistence requires a state of consciousness few could attain.
+Within the ship's Artifact, millions share an existence beyond the lives they once knew. Joining them requires a state of consciousness few could attain until A-HAVA was built from the old world's surviving VR technology. Guided by AI and human operators, the remaining people work through simulated lifetimes so they too can integrate into the Artifact. Only then can the ship depart.
 
-That was until the A-HAVA training system was created using the VR artifacts left behind from the old world.
+Operator X is the last operator. She remembers neither her name nor her life before the Artifact, but the work comes naturally—until she is assigned Prisoner 285, a man driven by chaos, violence, and addiction.
 
-Guided by AI and the human operators who intervene when needed, people work through simulated lifetimes so they too can integrate into the Artifact. Only then can the ship depart.
-
-Operator X is the last operator. She remembers neither her name nor her life before the Artifact, but the work comes naturally. 
-
-Until she is assigned Prisoner 285, a man driven by chaos, violence, and addiction.
-
-X must walk through his recorded lives to reach a mind that has defeated every attempt to help him. Inside his worlds, she searches for options. Meanwhile the other operators reach their limits and retreat into the Artifact. 
-
-Eventually, only X, the robots, and one unfinished life remain.
+X must walk through his recorded lives to reach a mind that has defeated every attempt to help him. As she searches his worlds for a way forward, the other operators reach their limits and retreat into the Artifact. Eventually, only X, the robots, and one unfinished life remain.
 
 **Can she guide the last person into the Artifact before she loses her own way back?**
 
-*The Many Lives of Operator X* unfolds through Operator X's recovered console to reveal a civilization’s quest into the unknown, a woman’s search for answers, and the lives she must enter to make it happen.
+Told through her recovered console, *The Many Lives of Operator X* follows humanity's journey into the unknown, X's search for her past, and the lives she must enter along the way.
 
-This early preview includes **seven mission days, 21 journal entries, and 13 supporting documents**. The experience runs through conversation with an AI that can read the supplied text file. There is no application to compile, server to start, or dependency to install. Your chosen AI service supplies the model and may have its own costs or usage limits.
+This early preview includes **seven mission days, 21 journal entries, and 23 supporting documents**. The experience runs through conversation with an AI that can read the supplied text file. There is no application to compile, server to start, or dependency to install. Your chosen AI service supplies the model and may have its own costs or usage limits.
 
 ## Get the console
 
@@ -31,7 +23,7 @@ git clone https://github.com/wundarous/op-x-console.git
 cd op-x-console
 ```
 
-Alternatively, download the repository as a ZIP from GitHub and extract it. You can also download just `operator-x-week-one.txt` and `LICENSE` for the attachment route below. Avoid reading through the package itself if you want to discover the records in order—it contains the whole preview.
+Alternatively, download the repository as a ZIP from GitHub and extract it. For the attachment route below, download `operator-x-week-one.txt`, `LICENSE`, and the four PNGs in `media/`. Avoid reading through the package itself if you want to discover the records in order—it contains the whole preview.
 
 ## Start in an AI console with local folder access
 
@@ -57,7 +49,7 @@ The AI only needs permission to read this folder. Running the experience does no
 If your AI chat can read text attachments, you do not need local project support:
 
 1. Start a fresh conversation.
-2. Attach **[operator-x-week-one.txt](operator-x-week-one.txt)**.
+2. Attach **[operator-x-week-one.txt](operator-x-week-one.txt)** and the four PNG images in **[media](media/)**: `campus-orientation.png`, `ship-orientation.png`, `hava-pod.png`, and `bring-purpose-back-advertisement.png`.
 3. Send the same startup prompt above, referring to the attached file.
 
 This route is intended for services such as ChatGPT or Grok when text-file attachments are available in your account. File support and model behavior vary; compatibility with every service is not guaranteed. If the AI cannot read the file, resolve that before beginning rather than asking it to invent the experience.
@@ -102,6 +94,14 @@ To reread a completed day, say **Open journal day 003**. The console shows the f
 
 The preview ends after Day 007. You can revisit records and ask questions afterward; the AI should not invent Day 008. Asking about the records does not change X's story.
 
+## Orientation diagrams
+
+The campus overview includes a lobby wayfinding panel, library and archive, fitness and sports facilities, a pub, gardens, and walking paths. It unlocks after Day 2 Entry 1. The ship schematic unlocks after Entry 2. A labeled HAVA pod illustration also opens after Entry 1, showing the cover, biofeedback harness, cradle and wired connection. A new “What Is A-HAVA?” introduction follows Entry 3.
+
+All three graphics have PNG viewing copies. The two map diagrams also have SVG originals; the pod is a rendered equipment illustration. A local reader should use the files in `media/`; in an attachment-based chat, upload the PNGs alongside the text package. Display support varies by app. Each diagram record includes an authored text description as a fallback. The diagrams are schematics, not measured floor plans.
+
+The **Bring Purpose Back — Advertisement** unlocks after Day 7 Entry 1. Its supplied artwork is `media/bring-purpose-back-advertisement.png`; the archive record also includes the exact advertising copy and an image description.
+
 ## Save and resume
 
 Say **Save my position**. Copy the bookmark code the console returns somewhere you can find it later.
@@ -142,6 +142,7 @@ For feedback, note the AI service/model, what you asked, and what it returned. E
 | [operator-x-week-one.txt](operator-x-week-one.txt) | Complete console instructions and first-week story records. |
 | [AGENTS.md](AGENTS.md) | Startup guidance for local AI tools. |
 | [START-HERE.txt](START-HERE.txt) | Short version of the startup instructions. |
+| [media](media/) | Campus and ship diagrams (PNG/SVG), plus the HAVA pod illustration and Day 7 advertisement (PNG). |
 | [LICENSE](LICENSE) | Permissions for using and sharing this package. |
 
 ## License

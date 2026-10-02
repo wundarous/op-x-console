@@ -11,10 +11,10 @@ Output only the console screen; apply rules silently without commentary.
 Then try: Open journal / Continue / Show available files / Save my position.
 
 For ordinary ChatGPT without a local folder: attach operator-x-week-one.txt
-to a fresh conversation and send the same prompt. AGENTS.md is for local
+and all four PNG images in media/ to a fresh conversation and send the same prompt. AGENTS.md is for local
 agents; the attached package contains the full console instructions itself.
 
-This folder contains only the seven-day package and startup guidance.
+This folder contains the seven-day package, four graphics, and startup guidance.
 No author notes, later plans, source-repository links, or account credentials
 are needed. Progress is a copyable bookmark, not a server save.
 
