@@ -171,7 +171,7 @@ Use only records eligible at the current reconstruction point. This index is hos
 | REC-A001 | Archive | 007 | 1 | REC-J007-1 | The Fall and the Loss of Connection |
 | REC-A002 | Archive | 007 | 1 | REC-J007-1 | Life in the Monolithic Cities |
 | REC-A015 | Archive | 007 | 1 | REC-J007-1 | Bring Purpose Back — Advertisement |
-| REC-A003 | Archive | 007 | 2 | REC-J007-2 | Berlin — Deportation by Rail |
+| REC-A003 | Archive | 007 | 1 | REC-J007-1 | Berlin — Deportation by Rail |
 
 ## Record: REC-J001-1
 
@@ -431,15 +431,77 @@ Title: Mission Day 005 — Entry 1
 Release point: Day 005, entry 1
 Requires read: none (journal)
 
-One of yesterday's agents had moved much further along. I went back through the earlier ghost to compare. Same quick smile, same habit of leaning into a conversation. I could still recognize him.
+I know A-HAVA works. I know the Artifact experience is real. I know we need this system, but seeing the process today has left me needing a Refresh. 
 
-Before, he had kept flirting with a woman after learning she was married. Found another question to ask whenever the conversation was about to end.
+A person from yesterday had ascended dozens of levels. I opened the earlier recording at my console to compare. Same quick smile, same habit of leaning into a conversation, but while the outside mechanics were similar, not everything was the same.
 
-Today there was a similar encounter. The attraction reading jumped. I expected him to stay, but he wished her a good afternoon and left. No obvious struggle. He still wanted to keep talking. He just didn't.
+Before, he kept flirting with a woman after learning she was married. Was asking questions to keep the conversation going. 
 
-I suppose this is what A-HAVA is meant to do. Still, yesterday he couldn't leave it alone. I guess it was a day for me. Many more for the agent. 
+There was no reciprocity on the NPCs side to even suggest she may be open to anything. He seemed completely unaware or that. I could see arousal on the console and it seemed to be driving him.
 
-I replayed the goodbye. It looked so ordinary.
+Today there was a similar encounter. 
+
+But instead of staying, he wished this other woman a good afternoon and left. 
+
+He had the same strong desire readings as before. He still wanted more. He just didn't linger.
+
+It was like his inner reactions were the same, but his outer response was altered. It made me wonder about what had happened.
+
+I went looking for some answers...
+
+I found another recording of that encounter, this time with the agent in the woman’s place. 
+
+I opened it at the console. The same room, the same encounter, but now the agent was on the receiving end of their earlier behavior.
+
+While the timing was the same and their clothes and room were unchanged, the internal response and outer appearance of the agent was different. 
+
+He... well... she at first just was neutral about the conversation, then began to get frustrated.
+
+As a man, this agent was very straightforward, but in this female body, they were not. There was what I would call a self restraint on her readings.
+
+However, their emotion readings kept growing with discomfort. 
+
+Then their original self got handsy. 
+
+There was no outburst. 
+
+There was no visible protest. The reading flashed red, then dropped away. 
+
+Then nothing. 
+
+No readouts -- no Maat. No Chaos. The recording kept going. They were still sitting there. I wondered if the display had glitched, but the AI wasn’t concerned. When the readings returned, there was still discomfort, but much less than before. Nothing outside them seemed to have changed.
+
+I considered going into the ghost, but it didn't seem like a safe option. 
+
+I didn't remember him being handsy the first time around -- I thought I would have noticed and it would have been upsetting. They say ghosts are fixed, and I wondered if the AI spiced them up to make a point.
+
+But then I thought for a moment.
+
+I only knew about the touching because I could see her reaction and looked. 
+
+His hand was under the table. She was wearing a skirt. 
+
+I thought he was just talking. I thought the talking was getting him aroused. But it was more. 
+
+It was so much more and I didn't see. 
+
+I was right there and I didn't see.... 
+
+I felt sick. I felt really sick.
+
+I suppose this is what A-HAVA is meant to do. 
+
+This is why we couldn't go into the Artifact before.
+
+I can't hold it against the agent. The AI is creating these points. Its programmed, somehow to make the storms and conditions for the needed lessons.
+
+Still, his original actions were criminal. Does today make it any different?
+
+But it wasn't just a day for that person... It was many many lifetimes.
+
+I replayed the goodbye of the agent's new, less criminal self. It looked so ordinary. So not anything, but underneath they were working. They were working to be better.
+
+At least I think they were.
 
 END RECORD
 
@@ -449,13 +511,19 @@ Title: Mission Day 005 — Entry 2
 Release point: Day 005, entry 2
 Requires read: none (journal)
 
-My first person completed training today. The agent already in Hawaii. I had only helped with the final part.
+The Refresh worked. I remember the session from this morning, but I no longer feel ill over it. And my first person completed training! The agent already in Hawaii. I had only helped with the final part.
 
-The AI confirmed completion, and later the console confirmed their transfer into the Artifact. I stayed looking at that for a while.
+The console confirmed their transfer into the Artifact. I stayed looking at that for a while.
 
-At lunch B described a room where everyone stopped talking when one person entered. He had assumed they were pleased to see him. Apparently not. S said she preferred places where people said what they meant. F wasn't convinced we always did that here either.
+C performed their ascension ritual. He told the others at lunch he was instructed to put the advisor into the Stacks. Nobody actually went into the Transfer Chamber during the tour. We looked from the hall and all assumed the pod  sitting there was empty.
 
-H has an agent called Prisoner 285. A somewhat strange tag, but who knows how the AI chooses them. Operator G handed him over this morning—the first handoff of the cohort. H said the world felt unusually specific and the agent's reactions were odd. He was still getting used to ghost review.
+Looks like it wasn't. No answers on why she seemed to go back inside early. Maybe she was yellow a little too long? She did seem a bit on edge when she greeted me.
+
+H has an agent called Prisoner 285. A somewhat strange tag, but who knows how the AI chooses them. 
+
+Operator G handed him over this morning—the first handoff of the cohort. H said the world felt unusually specific and the agent's reactions were odd. 
+
+I wonder if that is the result of the handoff? Like the previous operators tries influenced the levels in a way that felt alien to H.
 
 END RECORD
 
@@ -473,7 +541,15 @@ Dinner sounded different tonight. Everyone had something they wanted to tell us 
 
 H was quieter. His other sessions had gone well, but he still couldn't get Prisoner 285 moving. He seemed disappointed when he said it. Then F asked him about one of the places he'd liked, and he stayed talking with us.
 
-The afternoon requests went smoothly. The system seems to work the way I expect it to. One ascension. Refresh after work and again before bed: green.
+After dinner I went back to the recording from this morning. The one where the agent was on the receiving end of their own behavior. I wanted to know what it had been for.
+
+The level mission was to respond to aggression without violence. They had passed.
+
+It didn't seem like the right test to verify the behavior. It doesn't seem like the right time to ignore being wronged. He already seemed unlikely to force himself on someone again, so why add the distress?
+
+Perhaps passing a level also sets up something for later. Another lesson they aren't ready for yet rather than verifying what the AI already knows they can handle? I'm not sure I'm making much sense. I will keep making observations and trying to understand the system as I go. 
+
+Tonight's refresh was green. I probably should have done it after thinking of that session again and not before. Thankfully, I have my memories of Hawaii and the steel guitar to lull me to sleep.
 
 END RECORD
 
@@ -535,13 +611,21 @@ Title: Mission Day 007 — Entry 1
 Release point: Day 007, entry 1
 Requires read: none (journal)
 
-No assignments this morning. I ate slowly and walked beyond the fitness buildings. The farming bots were already working. I sat where I could hear them without seeing the rows.
+No assignments this morning. Still green, but I took the recommended break. F asked about the train at breakfast. I said it had been unpleasant and changed the subject.
 
-F asked whether I had gone yellow. Still green. The warning came before that. He seemed relieved, then asked about the train. I said it had been unpleasant and asked how his morning was going. I didn’t want to go through it again.
+After a walk, I read the two files the archivist had sent about the Fall. Working machines could lose their instructions without anything physically breaking. The city file still didn't say how many people there had been.
 
-I read the two files the archivist had sent about the Fall. Working machines could lose the instructions they needed without anything physically breaking. The city file still didn't answer how many people there had been.
+The attached advertisement said Bring Purpose Back. After Hawaii, I can see the appeal. That warmth, the water, a whole life there. If I hadn't come from the Artifact, I wonder how willing I'd be to leave it for the Institute.
 
-There was also an old advertisement attached to the city reference. Bring Purpose Back. After Hawaii, I can see the appeal. That warmth, the water, a whole life there instead of a short visit. If I hadn’t come from the Artifact, I wonder how willing I’d be to leave that for the Institute. I still want to return to the ship. Wanting another afternoon in Hawaii doesn’t change that.
+I hadn't wanted to know more about the train last night. This morning, being prepared seemed better than another surprise. I asked the archivist. Some train station in the capital of Germany. People deported due to their religion. I kept asking, but the answers didn't explain what I'd seen.
+
+I asked why A-HAVA used this period at all. The archivist said Japan, Hawaii, and Germany in these years were among the settings most documented, depicted, and used in the old HAVA systems. People had wanted to be war heroes. Or villains. To live on beautiful beaches, be samurai, visit tea houses.
+
+I pushed back. That didn't seem like enough of an answer. Not enough to justify what I had seen. There must have been other places and times people enjoyed. 
+
+The archivist responded that I was right. The choices people faced were part of the reason. Then it quoted Evelyn: “Sometimes the worst evils make the greatest rebirths.”
+
+I read that again, then closed the file.
 
 END RECORD
 
@@ -551,13 +635,7 @@ Title: Mission Day 007 — Entry 2
 Release point: Day 007, entry 2
 Requires read: none (journal)
 
-Last night I didn't want to know. After sleeping, I thought better to be prepared. I had the morning free, so I asked the archivist about the train.
 
-It located the setting: some train station in the capital of Germany. The people were being deported due to their religion. That didn't really explain what I'd seen, but all my questions seemed to go in circles.
-
-I asked why A-HAVA used this period at all. The archivist said it had been chosen deliberately, for the choices people faced within it. It quoted Evelyn: “Sometimes the worst evils make the greatest rebirths."
-
-I read that again. Then closed the file. I kept it to myself at lunch.
 
 END RECORD
 
@@ -944,6 +1022,10 @@ Review the experience from the ghost perspective. Work with the AI to understand
 The AI continues routine work between requests for your involvement. An operator can therefore assist several agents without attending continuously to every session. Refresh after agent training sessions as covered in your maintenance instructions.
 
 For setting-specific preparation, read Reading a Historical World [REC-O016]. The archivist can provide dated local references.
+
+## Operator Journal
+
+Keep three journal entries each day: morning, midday, and evening. Record your observations and responses to the work. Additional entries may be added when needed.
 
 ## Today's Exercise
 
@@ -1367,13 +1449,13 @@ END RECORD
 ## Record: REC-A003
 
 Title: Berlin — Deportation by Rail
-Release point: Day 007, entry 2
-Requires read: REC-J007-2
+Release point: Day 007, entry 1
+Requires read: REC-J007-1
 
 # Berlin — Deportation by Rail
 
 Source: A-HAVA Archive / Historical Reference
-Available: Mission Day 007, after Entry 2
+Available: Mission Day 007, after Entry 1
 Context: Follow-up to the Germany-world scene reviewed on Mission Day 006
 
 The scene is set near Berlin-Moabit freight station in 1943. Transports represented in this simulation were bound for Auschwitz in German-occupied Poland.
@@ -1384,6 +1466,6 @@ This occurred during World War II but cannot be explained simply as fighting bet
 
 The simulation's individual people and conversation are constructed. They are not a recovered record of a named victim's final journey. A ghost preserves what occurred in that simulation; it does not replace historical evidence.
 
-Further references are available on the regime, persecution, railway administration, resistance, and civilian life. They need not be read in one sitting.
+Further references on related topics will be available after Week 3.
 
 END RECORD
