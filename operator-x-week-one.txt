@@ -1,6 +1,6 @@
 # Operator X — Week-One Chat Preview
 
-Build version: 0.3.1
+Build version: 0.3.2
 
 Update metadata URL: https://raw.githubusercontent.com/wundarous/op-x-console/main/version.json
 
@@ -667,13 +667,21 @@ Title: Mission Day 007 — Entry 3
 Release point: Day 007, entry 3
 Requires read: none (journal)
 
-After lunch I left the files closed and kept the rest of the day free. Reading more wasn't helping. Walked the longer path, then spent some time in the fitness room.
+After lunch, several operators stopped at Evelyn's statue. Each kissed their own hand and said, “Together, we ascend.”
 
-There was a game night at the pub. I joined F and S for cards. Somewhere in the middle of it I realized I was thinking about the hand in front of me, not the train. I stayed for another game.
+I understand their gratitude. I remember the goodness of being in the Artifact. The connection. The love. Evelyn helped make that possible, but what I feel is so much bigger than her. I can't make it about her the way they seem to.
 
-By the end of my bedtime refresh, the train felt distant. Still something I had seen, but no longer the thing I saw whenever I stopped doing something else.
+Perhaps something is missing with my memories. They seem to know who they are in a way I don't. Who was I before this? How terrible had I been? Does the system come so easily because I'm some deviant it already remade?
 
-Green. One week outside. It's hard to think of how much has changed since then.
+I kept thinking about Evelyn's quote. What tragedy made her aware of the good it could become?
+
+At the pub, I joined F and S for cards. Somewhere in the middle of it I realized I was thinking about the hand in front of me. I stayed for another game.
+
+By the end of my bedtime Refresh, the train felt distant. Still something I had seen, but no longer the thing I saw whenever I stopped doing something else.
+
+Green. One week outside.
+
+I'd like to know when Evelyn said that, and what she was describing.
 
 END RECORD
 
@@ -713,6 +721,8 @@ There will be an opportunity for brief questions before the group activities beg
 Your journal and this schedule are available today. Written orientation references begin appearing on Day 002 as their subjects are covered.
 
 Campus orientation begins tomorrow. For assistance before then, ask your advisor or the archivist.
+
+**Together, we ascend.**
 
 END RECORD
 
@@ -1096,6 +1106,8 @@ Today's console example introduces the work. Tomorrow's practice covers the tool
 Refresh sessions assess Maat and Chaos while you work outside the Artifact. Follow the care guidance and your measured results. A refresh is distinct from a training session or ghost review.
 
 See advisor from previous cohort for further guidance.
+
+**Together, we ascend.**
 
 END RECORD
 
