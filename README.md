@@ -116,11 +116,18 @@ If its progress tracking is unclear, start a new conversation with your last rel
 
 For feedback, note the AI service/model, what you asked, and what it returned. Especially useful: confusing navigation, repeated entries, premature document unlocks, unsupported story answers, and whether you wanted to keep reading.
 
+## Versions and updates
+
+The startup screen shows the version of the package you loaded. When the AI has web access, it can check the public version metadata once at startup and show a short download notice if a newer release exists. You can also say **Check for updates** at any time. If checking is unavailable, the story still works; an offline session cannot confirm whether it is current.
+
+Updates are manual. Save your position, download the new ZIP, and open it in a fresh chat with your bookmark. The new package checks whether it can restore that bookmark. The AI never replaces the story during an active session.
+
 ## Files
 
 | File | Purpose |
 | --- | --- |
 | [operator-x-week-one.txt](operator-x-week-one.txt) | Complete console instructions and first-week story records. |
+| `version.json` | Package version and the official download link. |
 | [AGENTS.md](AGENTS.md) | Startup guidance for local AI tools. |
 | [START-HERE.txt](START-HERE.txt) | Short version of the startup instructions. |
 | [media](media/) | Campus and ship diagrams (PNG/SVG), plus the HAVA pod illustration and Day 7 advertisement (PNG). |
