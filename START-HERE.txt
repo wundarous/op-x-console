@@ -1,27 +1,21 @@
 OPERATOR X — FIRST-WEEK TEST
 
-Open THIS folder as a new local project and start a NEW conversation.
-Do not continue or branch the authoring conversation.
+1. Download the repository ZIP from GitHub: Code → Download ZIP.
+2. Attach the ZIP to a fresh AI chat.
+3. Say: Open the console.
 
-Send:
-Read operator-x-week-one.txt and run its console experience. Boot at Day 1,
-use only the included records for story facts, and wait for my choice.
-Output only the console screen; apply rules silently without commentary.
+The ZIP includes the story, console instructions, and all four images.
+If your chat asks for guidance, say:
+Open the ZIP, read operator-x-week-one.txt, and run the console.
 
-Then try: Open journal / Continue / Show available files / Save my position.
+If your app cannot read ZIPs, extract it and attach operator-x-week-one.txt
+plus the PNGs from media/ instead.
 
-For ordinary ChatGPT without a local folder: attach operator-x-week-one.txt
-and all four PNG images in media/ to a fresh conversation and send the same prompt. AGENTS.md is for local
-agents; the attached package contains the full console instructions itself.
+Using a local AI tool? Open the extracted or cloned folder, start a fresh
+conversation, and say: Open the console.
 
-This folder contains the seven-day package, four graphics, and startup guidance.
-No author notes, later plans, source-repository links, or account credentials
-are needed. Progress is a copyable bookmark, not a server save.
+Once it opens, try: Open journal / Continue / Open document / Ask a question.
+Say "Save my position" for a bookmark you can paste into a new conversation.
 
-A separate folder does not disable account memory or create a security sandbox.
-For a cleaner conversational test, use a fresh conversation with memory disabled
-where available and do not attach other files. This tests conversational behavior;
-the complete first-week text is still inspectable in the package.
-
-This standalone folder can be opened independently of the authoring project.
-See LICENSE for personal-use permissions and commercial licensing terms.
+Keep this chat separate from discussions of the story's development.
+See README.md for more help and LICENSE for use and sharing permissions.

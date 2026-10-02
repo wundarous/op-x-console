@@ -12,49 +12,30 @@ X must walk through his recorded lives to reach a mind that has defeated every a
 
 Told through her recovered console, *The Many Lives of Operator X* follows humanity's journey into the unknown, X's search for her past, and the lives she must enter along the way.
 
-This early preview includes **seven mission days, 21 journal entries, and 23 supporting documents**. The experience runs through conversation with an AI that can read the supplied text file. There is no application to compile, server to start, or dependency to install. Your chosen AI service supplies the model and may have its own costs or usage limits.
+This early preview includes **seven mission days, 21 journal entries, and 23 supporting documents**. The experience runs through conversation with an AI that can read the supplied package. There is no application to compile, server to start, or dependency to install. Your chosen AI service supplies the model and may have its own costs or usage limits.
 
-## Get the console
+## Start in an AI chat
 
-Clone this repository:
+1. On this GitHub page, choose **Code → Download ZIP**.
+2. Attach the ZIP to a fresh AI chat.
+3. Say **“Open the console.”**
+
+That's it. The ZIP includes the story, console instructions, and images—you don't need to unzip it or attach the images separately when your chat can read ZIP files.
+
+If your chat asks what to do with the archive, say: **“Open the ZIP, read operator-x-week-one.txt, and run the console.”**
+
+If your app cannot read ZIPs, extract it and attach `operator-x-week-one.txt` plus the PNGs from `media/` instead. Use a fresh conversation so earlier story discussions don't influence the experience.
+
+## Use a local AI console instead
+
+Download and extract the ZIP, or clone the repository:
 
 ```sh
 git clone https://github.com/wundarous/op-x-console.git
 cd op-x-console
 ```
 
-Alternatively, download the repository as a ZIP from GitHub and extract it. For the attachment route below, download `operator-x-week-one.txt`, `LICENSE`, and the four PNGs in `media/`. Avoid reading through the package itself if you want to discover the records in order—it contains the whole preview.
-
-## Start in an AI console with local folder access
-
-1. Open the cloned `op-x-console` folder as your local project or working folder.
-2. Start a new AI conversation in that folder.
-3. Send this prompt:
-
-```text
-Read operator-x-week-one.txt and run its fictional recovered-console experience.
-Boot at Day 1. Use only the included records for story facts. Follow the package's
-reading and document-unlock rules. Do not summarize the package or reveal later
-entries. Output only the console screen—no preamble, rule explanations, state
-calculations, or implementation commentary. Show the opening console and wait
-for my choice.
-```
-
-The included `AGENTS.md` provides startup guidance for tools that support that file. The prompt and text package contain everything needed even when your tool does not read `AGENTS.md` automatically.
-
-The AI only needs permission to read this folder. Running the experience does not require editing files, shell commands, web browsing, or access to another project.
-
-## Start in an AI chat using an attachment
-
-If your AI chat can read text attachments, you do not need local project support:
-
-1. Start a fresh conversation.
-2. Attach **[operator-x-week-one.txt](operator-x-week-one.txt)** and the four PNG images in **[media](media/)**: `campus-orientation.png`, `ship-orientation.png`, `hava-pod.png`, and `bring-purpose-back-advertisement.png`.
-3. Send the same startup prompt above, referring to the attached file.
-
-This route is intended for services such as ChatGPT or Grok when text-file attachments are available in your account. File support and model behavior vary; compatibility with every service is not guaranteed. If the AI cannot read the file, resolve that before beginning rather than asking it to invent the experience.
-
-For a clean test, use a conversation separate from any discussion of the story's development. Do not include authoring files or earlier story discussions. A new folder does not itself isolate account-level memory or other context your AI service may supply.
+Open that folder in your AI tool, start a fresh conversation, and say **“Open the console.”** The included `AGENTS.md` supplies startup guidance for tools that support it. If needed, ask the AI to read `operator-x-week-one.txt` and run its console experience.
 
 ## Use the console
 
@@ -98,7 +79,7 @@ The preview ends after Day 007. You can revisit records and ask questions afterw
 
 The campus overview includes a lobby wayfinding panel, library and archive, fitness and sports facilities, a pub, gardens, and walking paths. It unlocks after Day 2 Entry 1. The ship schematic unlocks after Entry 2. A labeled HAVA pod illustration also opens after Entry 1, showing the cover, biofeedback harness, cradle and wired connection. A new “What Is A-HAVA?” introduction follows Entry 3.
 
-All three graphics have PNG viewing copies. The two map diagrams also have SVG originals; the pod is a rendered equipment illustration. A local reader should use the files in `media/`; in an attachment-based chat, upload the PNGs alongside the text package. Display support varies by app. Each diagram record includes an authored text description as a fallback. The diagrams are schematics, not measured floor plans.
+All three graphics have PNG viewing copies. The two map diagrams also have SVG originals; the pod is a rendered equipment illustration. The ZIP includes the images in `media/`; no separate image uploads are needed when your chat can read them from the archive. Display support varies by app. Each diagram record includes an authored text description as a fallback. The diagrams are schematics, not measured floor plans.
 
 The **Bring Purpose Back — Advertisement** unlocks after Day 7 Entry 1. Its supplied artwork is `media/bring-purpose-back-advertisement.png`; the archive record also includes the exact advertising copy and an image description.
 
