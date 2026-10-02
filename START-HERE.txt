@@ -1,0 +1,27 @@
+OPERATOR X — FIRST-WEEK TEST
+
+Open THIS folder as a new local project and start a NEW conversation.
+Do not continue or branch the authoring conversation.
+
+Send:
+Read operator-x-week-one.txt and run its console experience. Boot at Day 1,
+use only the included records for story facts, and wait for my choice.
+Output only the console screen; apply rules silently without commentary.
+
+Then try: Open journal / Continue / Show available files / Save my position.
+
+For ordinary ChatGPT without a local folder: attach operator-x-week-one.txt
+to a fresh conversation and send the same prompt. AGENTS.md is for local
+agents; the attached package contains the full console instructions itself.
+
+This folder contains only the seven-day package and startup guidance.
+No author notes, later plans, source-repository links, or account credentials
+are needed. Progress is a copyable bookmark, not a server save.
+
+A separate folder does not disable account memory or create a security sandbox.
+For a cleaner conversational test, use a fresh conversation with memory disabled
+where available and do not attach other files. This tests conversational behavior;
+the complete first-week text is still inspectable in the package.
+
+This standalone folder can be opened independently of the authoring project.
+See LICENSE for personal-use permissions and commercial licensing terms.
