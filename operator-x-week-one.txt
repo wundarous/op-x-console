@@ -1,6 +1,6 @@
 # Operator X — Week-One Chat Preview
 
-Build version: 0.3.3
+Build version: 0.3.4
 
 Update metadata URL: https://raw.githubusercontent.com/wundarous/op-x-console/main/version.json
 
@@ -331,15 +331,13 @@ Title: Mission Day 003 — Entry 1
 Release point: Day 003, entry 1
 Requires read: none (journal)
 
-More files this morning, including a list of questions the archivist has been getting. Several were mine. Apparently I wasn't the only one asking what we were here to do.
+More files this morning, including a list of questions the archivist has been getting. Several were mine. The last instruction is to ask our advisor for more info, but they are still missing.
 
-There are a little fewer than three hundred people still to finish training. There isn't another cohort waiting to take over after us.
+After reviewing the docs, I went on to the operator training exercises. It felt a lot more like a game than I would have expected.
 
-Twenty-four of us are supposed to finish this for everyone. I read that part twice.
+The mock agent needed to take a free trip north, but he wasn’t going. The AI asked me to step in.
 
-The FAQ explains what the advisor was supposed to do. It doesn't say who ours was or where to find her. The last instruction in that section is to ask her for more information.
-
-The agent needed to take a free trip north, but he wasn’t going. I checked the area. The weather was pretty different. I took an NPC from the north and made them a traveler with a coat to spare.
+I checked the area. The weather was pretty different. I found a traveler from the north with a coat to spare.
 
 First run, he didn't notice. You can't put a seed on an angel, and he wasn't looking at anything around the traveler either. I looked through the seed options for something that would draw his attention. A mouse could move into his path. I placed a seed on it and had it run across the walkway toward the traveler. He stopped, then refused the coat. Closer, but I needed more.
 
@@ -347,11 +345,7 @@ Looking back through the data, I saw a brief rise in excitement at the offer, fo
 
 It worked! He took the coat and the trip.
 
-The whole experience was much more like a game than I expected. I lost track of time until the console started beeping at me to eat.
-
-I liked the clothes in the Meiji setting. One woman's kimono had tiny white shapes repeated across dark blue cloth. Another had flowers that only showed when she moved her sleeves. I kept turning back to look. Less interested in the smell of fish cooking beside the walkway. I'll ask the archivist for more about the clothes.
-
-Refresh was green. Lunch with the same six.
+The console is beeping at me to take a food break, but I wanted to capture what happened before it got lost over lunch.
 
 END RECORD
 
@@ -389,11 +383,9 @@ I felt quite at ease by the bots, like when I first opened my eyes on they ship.
 
 I can feel a desire to be back on the ship, but its far from a craving. More like a deep knowing one day I will return.
 
-The Mission ends with everyone in the Artifact and the Artifact on the Bridge. I still have questions about what follows, but they don't change where I need to be tomorrow.
+The Mission ends with everyone in the Artifact and the Artifact on the Bridge. The docs said there were about 300 people left to train. They also said we all have a time limit before we'll need to go back into the Artifact.
 
-Read the Hawaii sheet before bed. Several communities and languages, not one set of customs for everyone. There is a music section. I only skimmed it.
-
-Bedtime refresh: green. First assignments in the morning.
+We're the last operators available, with the last people to train. What happens if we can't?
 
 END RECORD
 
