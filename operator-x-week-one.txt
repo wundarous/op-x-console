@@ -1,6 +1,6 @@
 # Operator X — Week-One Chat Preview
 
-Build version: 0.3.2
+Build version: 0.3.3
 
 Update metadata URL: https://raw.githubusercontent.com/wundarous/op-x-console/main/version.json
 
@@ -633,11 +633,13 @@ Title: Mission Day 007 — Entry 1
 Release point: Day 007, entry 1
 Requires read: none (journal)
 
-No assignments this morning. Still green, but I took the recommended break. F asked about the train at breakfast. I said it had been unpleasant and changed the subject.
+I took the recommended break. 
 
-After a walk, I read the two files the archivist had sent about the Fall. Working machines could lose their instructions without anything physically breaking. The city file still didn't say how many people there had been.
+After a walk, I read some files the archivist had sent about the Fall. It's strange to think about all the machines that stopped working, but weren't broken. The city file still didn't say how many people there had been.
 
-The attached advertisement said Bring Purpose Back. After Hawaii, I can see the appeal. That warmth, the water, a whole life there. If I hadn't come from the Artifact, I wonder how willing I'd be to leave it for the Institute.
+There was one advertisement called "Bring Purpose Back." 
+
+After Hawaii, I can see the appeal. That warmth, the water, a whole life there. If I hadn't come from the Artifact, I wonder how willing I'd be to leave it for the Institute.
 
 I hadn't wanted to know more about the train last night. This morning, being prepared seemed better than another surprise. I asked the archivist. Some train station in the capital of Germany. People deported due to their religion. I kept asking, but the answers didn't explain what I'd seen.
 
@@ -645,9 +647,9 @@ I asked why A-HAVA used this period at all. The archivist said Japan, Hawaii, an
 
 I pushed back. That didn't seem like enough of an answer. Not enough to justify what I had seen. There must have been other places and times people enjoyed. 
 
-The archivist responded that I was right. The choices people faced were part of the reason. Then it quoted Evelyn: “Sometimes the worst evils make the greatest rebirths.”
+The archivist responded that I was right. The choices people faced were part of the reason too. 
 
-I read that again, then closed the file.
+Then it quoted Evelyn: “Sometimes the worst evils make the greatest rebirths.”
 
 END RECORD
 
@@ -667,7 +669,7 @@ Title: Mission Day 007 — Entry 3
 Release point: Day 007, entry 3
 Requires read: none (journal)
 
-After lunch, several operators stopped at Evelyn's statue. Each kissed their own hand and said, “Together, we ascend.”
+After lunch, several operators stopped at Evelyn's statue. Each extended their right index and middle fingers together and kissed the fingertips. Then took turns pressing the statue's left foot, saying, “Together, we ascend.”
 
 I understand their gratitude. I remember the goodness of being in the Artifact. The connection. The love. Evelyn helped make that possible, but what I feel is so much bigger than her. I can't make it about her the way they seem to.
 
@@ -1406,7 +1408,7 @@ Source: A-HAVA Archive / Historical Reference
 Compiled by: Archivist  
 Available: Mission Day 007
 
-The Great Fall began with the arrival of the ship on June 6, 2056, approximately one thousand years ago. Its arrival produced interference with wireless systems. The term names that initiating event as well as, in common use, the collapse associated with it.
+The Great Fall began with the arrival of the ship on June 6, 2076, forty-nine years after the first arcology launched in 2027 and approximately one thousand years ago. Its arrival produced interference with wireless systems. The term names that initiating event as well as, in common use, the collapse associated with it.
 
 Pre-Fall devices depended heavily on remote services collectively called the cloud. Instructions and information were available through those connections rather than held entirely within each device. Even routine machines could stop functioning when the connection failed.
 
@@ -1436,7 +1438,7 @@ Available: Mission Day 007
 
 The Monolithic Cities were enormous ocean arcologies where most pre-Fall humans lived. Much of daily experience took place through HAVA while physical bodies remained in pods. AI systems operated the virtual worlds, and robots maintained much of the physical infrastructure.
 
-The first test arcology launched off Oman in 2026 and housed one million people. Demand surged within a few years; rapid expansion brought most of the population into the ocean cities and their pods before the Fall.
+Global One Network was the corporation that owned the cities and HAVA. The first test arcology launched off Oman in 2027 and housed one million people. Demand surged within a few years; rapid expansion brought most of the population into the ocean cities and their pods before the Fall.
 
 A person in a HAVA world was its agent. The character they inhabited was their vessel. Those terms describe a person's relationship to the system, not the purpose of the particular world.
 
