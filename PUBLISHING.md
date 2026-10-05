@@ -14,8 +14,10 @@ repository. No personal token, AWS credentials, or additional repository is need
 
 ## Publish
 
-Open **Actions → Publish reader → Run workflow**, select `main`, and run it.
-Only `website/` is uploaded. Pushing commits alone never deploys the site.
+Push changes to `website/` or `.github/workflows/pages.yml` to `main` to publish
+automatically. Only `website/` is uploaded. Console-only updates do not redeploy.
+For a manual deployment, open **Actions → Publish reader → Run workflow** and
+select `main`.
 Use the deployment link from the successful workflow to open the live site.
 
 ## Update the website
@@ -30,11 +32,11 @@ npm run build -- --base=/
 
 Replace this repository's `website/` directory with the resulting `dist/`
 contents, removing obsolete build files. Review, commit, and push that change,
-then manually run **Publish reader**. Do not hand-edit compiled files.
+and the push to `main` publishes automatically. Do not hand-edit compiled files.
 The reader's explicit content importer supplies story updates before building;
 this repository never reads private authoring files or editorial review state.
 
 Console sync updates its own generated files and preserves the website and
 workflow. Commit or preserve pending website edits before running console sync.
-To roll back a website release, revert its website changes on `main` and manually
-run the workflow again.
+To roll back a website release, revert its website changes on `main` and push
+the revert; it will publish automatically.
