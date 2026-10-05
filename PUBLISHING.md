@@ -3,7 +3,8 @@
 The `website/` directory is the compiled reader and its supplied public Week 1
 content. Existing console downloads remain at the repository root.
 
-Expected website: https://wundarous.github.io/op-x-console/
+The live domain is configured in repository Settings → Pages → Custom domain.
+This build serves from the domain root (`/`).
 
 ## Enable GitHub Pages once
 
@@ -24,7 +25,7 @@ In the independent reader source project:
 ```sh
 npm ci
 npm test
-npm run build -- --base=/op-x-console/
+npm run build -- --base=/
 ```
 
 Replace this repository's `website/` directory with the resulting `dist/`
