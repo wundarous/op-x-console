@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "releaseId": "week-one-1",
+  "releaseId": "week-one-2",
   "publication": {
     "id": "operator-x",
     "title": "The Many Lives of Operator X"
@@ -32,7 +32,7 @@
     "eyebrow": "A story in recovered records",
     "headline": "The Many Lives",
     "headlineEmphasis": "Operator X",
-    "intro": "She knows how to write a sentence. She knows what a cafeteria is.\nShe doesn’t know her own name.",
+    "intro": "She came from the Artifact. She believes in the mission.\nThese are the records she left behind.",
     "excerpt": {
       "text": "Who was I before this? How terrible had I been? Does the system come so easily because I'm some criminal it already remade?",
       "day": 7,
