@@ -1,1 +1,126 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1160" viewBox="0 0 1600 1160" role="img" aria-labelledby="title desc"><title id="title">A-HAVA campus overview and lobby wayfinding</title><desc id="desc">A conceptual overhead campus map with a separate lobby sign diagram. Agent quarters, ship and service buildings are restricted. Library, archive, fitness, sports arena, pub and gardens serve the campus.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#547b70"/></marker></defs><rect width="100%" height="100%" fill="#f7f4eb"/><g font-family="DejaVu Sans, sans-serif"><text x="50" y="48" font-size="17" fill="#547b70" font-weight="bold">A-HAVA / CAMPUS ORIENTATION</text><text x="50" y="95" font-size="38" fill="#203b43" font-weight="bold">Find your way around</text><text x="50" y="128" font-size="18" fill="#203b43" font-weight="normal">Central campus overview • destinations and access, not a measured site plan</text><text x="50" y="180" font-size="18" fill="#203b43" font-weight="bold">01 / CAMPUS OVERVIEW</text><path d="M 775 235 L 775 382" fill="none" stroke="#547b70" stroke-width="4"/><path d="M 775 425 L 450 425" fill="none" stroke="#547b70" stroke-width="4"/><path d="M 775 425 L 1080 425" fill="none" stroke="#547b70" stroke-width="4"/><path d="M 775 465 L 775 625" fill="none" stroke="#547b70" stroke-width="4"/><path d="M 450 290 L 450 625" fill="none" stroke="#547b70" stroke-width="4"/><path d="M 1080 290 L 1080 625" fill="none" stroke="#547b70" stroke-width="4"/><path d="M 205 295 Q 95 450 200 620 L 1290 620 Q 1480 450 1365 295" fill="none" stroke="#83956c" stroke-width="4" stroke-dasharray="9 8"/><rect x="640" y="195" width="270" height="80" rx="10" fill="#f4e4db" stroke="#b57a65" stroke-width="2"/><text x="658" y="225" font-size="19" fill="#934533" font-weight="bold">SHIP</text><text x="658" y="252" font-size="16" fill="#934533" font-weight="normal">Escorted / scheduled access</text><rect x="85" y="220" width="290" height="100" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="103" y="250" font-size="19" fill="#203b43" font-weight="bold">Library + Archive</text><text x="103" y="277" font-size="16" fill="#203b43" font-weight="normal">Reading and study rooms</text><text x="103" y="300" font-size="16" fill="#203b43" font-weight="normal">Archivist desk / records</text><rect x="390" y="220" width="220" height="100" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="408" y="250" font-size="19" fill="#203b43" font-weight="bold">Cafeteria</text><text x="408" y="277" font-size="16" fill="#203b43" font-weight="normal">Dining + kitchens</text><rect x="960" y="220" width="265" height="100" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="978" y="250" font-size="19" fill="#203b43" font-weight="bold">Care Centre</text><text x="978" y="277" font-size="16" fill="#203b43" font-weight="normal">Nurses / refresh pods</text><text x="978" y="300" font-size="16" fill="#203b43" font-weight="normal">Secured wired interfaces</text><rect x="1250" y="220" width="275" height="100" rx="10" fill="#f4e4db" stroke="#b57a65" stroke-width="2"/><text x="1268" y="250" font-size="19" fill="#934533" font-weight="bold">Service buildings</text><text x="1268" y="277" font-size="16" fill="#934533" font-weight="normal">Robot maintenance</text><text x="1268" y="300" font-size="16" fill="#934533" font-weight="normal">Service access only</text><rect x="140" y="370" width="275" height="105" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="158" y="400" font-size="19" fill="#203b43" font-weight="bold">Residential quarters</text><text x="158" y="427" font-size="16" fill="#203b43" font-weight="normal">Operator accommodation</text><text x="158" y="450" font-size="16" fill="#203b43" font-weight="normal">Resident common rooms</text><rect x="560" y="375" width="400" height="100" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="578" y="405" font-size="19" fill="#203b43" font-weight="bold">CENTRAL LOBBY</text><text x="578" y="432" font-size="16" fill="#203b43" font-weight="normal">Campus information / meeting point</text><text x="578" y="455" font-size="16" fill="#203b43" font-weight="normal">See wayfinding panel below</text><rect x="1120" y="370" width="360" height="105" rx="10" fill="#f4e4db" stroke="#b57a65" stroke-width="2"/><text x="1138" y="400" font-size="19" fill="#934533" font-weight="bold">EAST WING / AGENT QUARTERS</text><text x="1138" y="427" font-size="16" fill="#934533" font-weight="normal">No operator entry</text><text x="1138" y="450" font-size="16" fill="#934533" font-weight="normal">Care and training pods</text><rect x="165" y="510" width="270" height="90" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="183" y="540" font-size="19" fill="#203b43" font-weight="bold">Fitness + Sports Arena</text><text x="183" y="567" font-size="16" fill="#203b43" font-weight="normal">Exercise / courts / seating</text><rect x="465" y="510" width="270" height="90" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="483" y="540" font-size="19" fill="#203b43" font-weight="bold">Pub + Recreation</text><text x="483" y="567" font-size="16" fill="#203b43" font-weight="normal">Social rooms / gathering space</text><rect x="765" y="510" width="270" height="90" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="783" y="540" font-size="19" fill="#203b43" font-weight="bold">Gardens + Courtyard</text><text x="783" y="567" font-size="16" fill="#203b43" font-weight="normal">Evelyn memorial plaza</text><rect x="1065" y="510" width="320" height="90" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="1083" y="540" font-size="19" fill="#203b43" font-weight="bold">Assembly + Learning</text><text x="1083" y="567" font-size="16" fill="#203b43" font-weight="normal">Hall / classrooms / workshops</text><text x="180" y="662" font-size="16" fill="#547b70" font-weight="bold">OUTDOOR WALKING LOOP</text><text x="670" y="662" font-size="16" fill="#203b43" font-weight="normal">Cultivated grounds beyond the loop • remain on permitted paths</text><path d="M 50 697 L 1550 697" fill="none" stroke="#c7d0c4" stroke-width="4"/><text x="50" y="740" font-size="18" fill="#203b43" font-weight="bold">02 / AT THE CENTRAL LOBBY</text><text x="50" y="767" font-size="17" fill="#203b43" font-weight="normal">Follow destination signs. East Wing and ship access require authorization.</text><rect x="590" y="890" width="390" height="76" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="608" y="920" font-size="19" fill="#203b43" font-weight="bold">YOU ARE HERE</text><text x="608" y="947" font-size="16" fill="#203b43" font-weight="normal">Central lobby</text><path d="M 590 928 L 475 928" fill="none" stroke="#547b70" stroke-width="4" marker-end="url(#arrow)"/><path d="M 785 890 L 785 836" fill="none" stroke="#547b70" stroke-width="4" marker-end="url(#arrow)"/><path d="M 980 928 L 1095 928" fill="none" stroke="#547b70" stroke-width="4" marker-end="url(#arrow)"/><path d="M 785 966 L 785 1021" fill="none" stroke="#547b70" stroke-width="4" marker-end="url(#arrow)"/><rect x="90" y="870" width="385" height="110" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="108" y="900" font-size="19" fill="#203b43" font-weight="bold">Library / Archive</text><text x="108" y="927" font-size="16" fill="#203b43" font-weight="normal">Cafeteria</text><text x="108" y="950" font-size="16" fill="#203b43" font-weight="normal">Residential quarters</text><rect x="585" y="789" width="400" height="47" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="603" y="819" font-size="19" fill="#203b43" font-weight="bold">Evelyn plaza / Ship approach</text><rect x="1095" y="870" width="405" height="110" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="1113" y="900" font-size="19" fill="#203b43" font-weight="bold">Care Centre</text><text x="1113" y="927" font-size="16" fill="#203b43" font-weight="normal">Refresh / nurses</text><text x="1113" y="950" font-size="16" fill="#203b43" font-weight="normal">East Wing boundary — no entry</text><rect x="480" y="1025" width="610" height="47" rx="10" fill="#e4ede6" stroke="#91a99c" stroke-width="2"/><text x="498" y="1055" font-size="19" fill="#203b43" font-weight="bold">Fitness / Arena / Pub / Gardens / Walking paths</text><text x="50" y="1127" font-size="16" fill="#203b43" font-weight="normal">Solid lines: campus connections     Dashed line: walking loop     Rust panels: restricted destinations</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1640" viewBox="0 0 1400 1640" role="img" aria-labelledby="title desc">
+<title id="title">Institute grounds — visitor map</title>
+<desc id="desc">Exterior wayfinding map. An oval central lobby sits in front of a rectangular activities building. Four wings form an X: dormitories upper right, agent HAVAs upper left nearest the ship path, systems and maintenance lower left, and library, nurses’ station and entertainment lower right. South is at the top. Evelyn’s statue and garden are below the lobby. Walking paths surround the institute; the ship path leaves at upper left and the farmland and cultivation path leaves at lower right. Numbered circles match the destination key.</desc>
+<defs><pattern id="grass" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="8" cy="8" r="1.2" fill="#cad9bb"/></pattern><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#9d8764"/></marker></defs>
+<rect width="1400" height="1640" fill="#f7f3e8"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#263f39">
+<text x="65" y="65" font-size="17" letter-spacing="4">A-HAVA  /  WELCOME TO THE INSTITUTE</text>
+<text x="65" y="124" font-size="46" font-weight="bold">Find your way around</text>
+<text x="65" y="162" font-size="21">Grounds &amp; destinations</text>
+<rect x="45" y="195" width="1310" height="825" rx="26" fill="#e5ecd9"/>
+<rect x="45" y="195" width="1310" height="825" rx="26" fill="url(#grass)"/>
+
+<path d="M 360 310 C 450 245 540 250 700 250 C 930 250 1100 285 1180 440 C 1200 480 1225 520 1225 550 C 1235 700 1210 800 1120 890 C 1000 990 400 990 280 875 C 180 780 170 525 240 420 Q 285 345 360 310" fill="none" stroke="#f9f5e9" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 360 310 C 450 245 540 250 700 250 C 930 250 1100 285 1180 440 C 1200 480 1225 520 1225 550 C 1235 700 1210 800 1120 890 C 1000 990 400 990 280 875 C 180 780 170 525 240 420 Q 285 345 360 310" fill="none" stroke="#c8b594" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 340 324 Q 220 300 100 225" fill="none" stroke="#f9f5e9" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 340 324 Q 220 300 100 225" fill="none" stroke="#c8b594" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 260L103 227" fill="none" stroke="#9d8764" stroke-width="5" marker-end="url(#arrow)"/>
+<circle cx="86" cy="301" r="22" fill="#263f3922"/><circle cx="85" cy="298" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="85" y="305" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">9</text>
+<text x="120" y="304" text-anchor="start" font-size="18" fill="#263f39" font-weight="bold">TO THE SHIP</text>
+<text x="115" y="330" text-anchor="start" font-size="16" fill="#263f39" font-weight="normal">Follow the path</text>
+<path d="M 1120 890 Q 1200 920 1300 970" fill="none" stroke="#f9f5e9" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1120 890 Q 1200 920 1300 970" fill="none" stroke="#c8b594" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1240 940L1300 970" fill="none" stroke="#9d8764" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M 700 685 L 700 730 M 700 870 L700 954 M 700 250 L700 295" fill="none" stroke="#f9f5e9" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 700 685 L 700 730 M 700 870 L700 954 M 700 250 L700 295" fill="none" stroke="#c8b594" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="625,487 393,316 316,421 562,602" fill="#b1becb" stroke="#53695b" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="775,487 1007,316 1084,421 838,602" fill="#d7b78c" stroke="#53695b" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="562,550 310,746 388,848 637,632" fill="#b6c2a7" stroke="#53695b" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="838,550 1090,746 1012,848 763,632" fill="#d7b3a3" stroke="#53695b" stroke-width="3" stroke-linejoin="round"/>
+<rect x="512" y="305" width="376" height="235" rx="5" fill="#e9d19e" stroke="#53695b" stroke-width="3"/>
+<path d="M637 310V423M762 310V423" stroke="#c5aa79" stroke-width="2"/>
+<ellipse cx="700" cy="568" rx="186" ry="126" fill="#f5e5bd" stroke="#53695b" stroke-width="3"/>
+<ellipse cx="700" cy="568" rx="165" ry="106" fill="none" stroke="#d5bd8e" stroke-width="2"/>
+<rect x="599" y="735" width="202" height="148" rx="62" fill="#afc49b" stroke="#7e9b70" stroke-width="2"/>
+<path d="M700 735V883 M605 810H795" fill="none" stroke="#f9f5e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M700 735V883 M605 810H795" fill="none" stroke="#c8b594" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="640" cy="773" rx="23" ry="14" fill="#d8b5a7" stroke="#a18f7d"/>
+<ellipse cx="760" cy="773" rx="23" ry="14" fill="#d8b5a7" stroke="#a18f7d"/>
+<ellipse cx="640" cy="846" rx="23" ry="14" fill="#d8b5a7" stroke="#a18f7d"/>
+<ellipse cx="760" cy="846" rx="23" ry="14" fill="#d8b5a7" stroke="#a18f7d"/>
+<circle cx="700" cy="806" r="27" fill="#f3e4c7" stroke="#ac9774" stroke-width="2"/><rect x="686" y="815" width="28" height="8" fill="#596a60"/><path d="M690 813L695 788H705L710 813Z" fill="#63756b"/><circle cx="700" cy="780" r="7" fill="#63756b"/>
+<circle cx="150" cy="455" r="22" fill="#b7cba5"/><circle cx="142" cy="450" r="16" fill="#c7d7b5"/>
+<circle cx="1280" cy="395" r="22" fill="#b7cba5"/><circle cx="1272" cy="390" r="16" fill="#c7d7b5"/>
+<circle cx="1265" cy="710" r="22" fill="#b7cba5"/><circle cx="1257" cy="705" r="16" fill="#c7d7b5"/>
+<circle cx="140" cy="775" r="22" fill="#b7cba5"/><circle cx="132" cy="770" r="16" fill="#c7d7b5"/>
+<circle cx="435" cy="920" r="22" fill="#b7cba5"/><circle cx="427" cy="915" r="16" fill="#c7d7b5"/>
+<circle cx="970" cy="940" r="22" fill="#b7cba5"/><circle cx="962" cy="935" r="16" fill="#c7d7b5"/>
+<circle cx="350" cy="245" r="22" fill="#b7cba5"/><circle cx="342" cy="240" r="16" fill="#c7d7b5"/>
+<circle cx="1080" cy="245" r="22" fill="#b7cba5"/><circle cx="1072" cy="240" r="16" fill="#c7d7b5"/>
+<circle cx="701" cy="528" r="22" fill="#263f3922"/><circle cx="700" cy="525" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="700" y="532" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">1</text>
+<text x="700" y="581" text-anchor="middle" font-size="23" fill="#263f39" font-weight="bold">CENTRAL LOBBY</text>
+<text x="700" y="614" text-anchor="middle" font-size="18" fill="#263f39" font-weight="normal">Information • cafeteria</text>
+<circle cx="701" cy="340" r="22" fill="#263f3922"/><circle cx="700" cy="337" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="700" y="344" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">2</text>
+<text x="700" y="390" text-anchor="middle" font-size="18" fill="#263f39" font-weight="bold">MEETING ROOMS</text>
+<text x="700" y="418" text-anchor="middle" font-size="18" fill="#263f39" font-weight="normal">FITNESS • ARENA</text>
+<circle cx="992" cy="402" r="22" fill="#263f3922"/><circle cx="991" cy="399" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="991" y="406" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">3</text>
+<text x="1050" y="464" text-anchor="middle" font-size="17" fill="#263f39" font-weight="bold">DORMITORIES</text>
+<circle cx="410" cy="402" r="22" fill="#263f3922"/><circle cx="409" cy="399" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="409" y="406" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">7</text>
+<text x="350" y="464" text-anchor="middle" font-size="17" fill="#263f39" font-weight="bold">AGENT HAVAs</text>
+<text x="350" y="487" text-anchor="middle" font-size="15" fill="#263f39" font-weight="normal">East Wing · restricted</text>
+<circle cx="398" cy="736" r="22" fill="#263f3922"/><circle cx="397" cy="733" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="397" y="740" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">6</text>
+<text x="361" y="794" text-anchor="middle" font-size="17" fill="#263f39" font-weight="bold">SYSTEMS</text>
+<text x="361" y="817" text-anchor="middle" font-size="15" fill="#263f39" font-weight="normal">&amp; MAINTENANCE</text>
+<circle cx="1004" cy="736" r="22" fill="#263f3922"/><circle cx="1003" cy="733" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="1003" y="740" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">4</text>
+<text x="1060" y="790" text-anchor="middle" font-size="17" fill="#263f39" font-weight="bold">LIBRARY • CARE</text>
+<text x="1060" y="815" text-anchor="middle" font-size="15" fill="#263f39" font-weight="normal">&amp; ENTERTAINMENT</text>
+<circle cx="828" cy="850" r="22" fill="#263f3922"/><circle cx="827" cy="847" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="827" y="854" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">5</text>
+<text x="700" y="920" text-anchor="middle" font-size="18" fill="#263f39" font-weight="bold">EVELYN’S GARDEN</text>
+<circle cx="1128" cy="973" r="22" fill="#263f3922"/><circle cx="1127" cy="970" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="1127" y="977" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">8</text>
+<text x="1170" y="986" text-anchor="start" font-size="16" fill="#263f39" font-weight="bold">TO CULTIVATION</text>
+<text x="170" y="980" text-anchor="start" font-size="16" fill="#263f39" font-weight="normal">WALKING PATHS</text>
+<text x="1265" y="241" text-anchor="middle" font-size="17" fill="#263f39" font-weight="bold">S</text>
+<path d="M1265 282V252M1257 263L1265 251L1273 263" fill="none" stroke="#53695b" stroke-width="2"/>
+<text x="65" y="1078" text-anchor="start" font-size="19" fill="#263f39" font-weight="bold">YOUR DESTINATIONS</text>
+<circle cx="91" cy="1135" r="22" fill="#263f3922"/><circle cx="90" cy="1132" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="90" y="1139" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">1</text>
+<text x="128" y="1130" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Central lobby</text>
+<text x="128" y="1157" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Information &amp; wayfinding; cafeteria.</text>
+<circle cx="91" cy="1222" r="22" fill="#263f3922"/><circle cx="90" cy="1219" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="90" y="1226" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">2</text>
+<text x="128" y="1217" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Main building</text>
+<text x="128" y="1244" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Meeting rooms, fitness center and arena.</text>
+<circle cx="91" cy="1309" r="22" fill="#263f3922"/><circle cx="90" cy="1306" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="90" y="1313" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">3</text>
+<text x="128" y="1304" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Dormitory wing</text>
+<text x="128" y="1331" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Operator sleeping quarters and common rooms.</text>
+<circle cx="91" cy="1396" r="22" fill="#263f3922"/><circle cx="90" cy="1393" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="90" y="1400" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">4</text>
+<text x="128" y="1391" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Library, care &amp; entertainment wing</text>
+<text x="128" y="1418" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Library and archive; nurses’ station;</text>
+<text x="128" y="1442" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">pub and other entertainment.</text>
+<circle cx="91" cy="1483" r="22" fill="#263f3922"/><circle cx="90" cy="1480" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="90" y="1487" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">5</text>
+<text x="128" y="1478" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Evelyn’s statue &amp; garden</text>
+<text x="128" y="1505" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Memorial statue, garden and walking paths.</text>
+<circle cx="741" cy="1135" r="22" fill="#263f3922"/><circle cx="740" cy="1132" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="740" y="1139" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">6</text>
+<text x="778" y="1130" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Systems &amp; maintenance wing</text>
+<text x="778" y="1157" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Institute systems and robot maintenance.</text>
+<text x="778" y="1181" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Authorized access only.</text>
+<circle cx="741" cy="1222" r="22" fill="#263f3922"/><circle cx="740" cy="1219" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="740" y="1226" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">7</text>
+<text x="778" y="1217" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Agent HAVA wing</text>
+<text x="778" y="1244" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Agent accommodation and training pods.</text>
+<text x="778" y="1268" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Restricted access.</text>
+<circle cx="741" cy="1309" r="22" fill="#263f3922"/><circle cx="740" cy="1306" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="740" y="1313" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">8</text>
+<text x="778" y="1304" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Farmland &amp; cultivation center</text>
+<text x="778" y="1331" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Follow the outward path to the cultivated grounds.</text>
+<circle cx="741" cy="1396" r="22" fill="#263f3922"/><circle cx="740" cy="1393" r="22" fill="#263f39" stroke="#fffaf0" stroke-width="3"/>
+<text x="740" y="1400" text-anchor="middle" font-size="21" fill="#fffaf0" font-weight="bold">9</text>
+<text x="778" y="1391" text-anchor="start" font-size="20" fill="#263f39" font-weight="bold">Path to the ship</text>
+<text x="778" y="1418" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Follow the upper-left path.</text>
+<text x="778" y="1442" text-anchor="start" font-size="17" fill="#263f39" font-weight="normal">Escorted visits or scheduled duties only.</text>
+<path d="M65 1570H1335" stroke="#c4ccbb"/>
+<text x="65" y="1605" text-anchor="start" font-size="16" fill="#263f39" font-weight="normal">Illustrated exterior guide • Not to scale • Follow posted access signs</text>
+</g></svg>

@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "releaseId": "week-one-2",
+  "releaseId": "week-one-4",
   "files": {
     "LICENSE": "335a97fa2940f8d51b33a22a2a426209d36c7cfda9151b95723f5f64794eddaa",
     "media/bring-purpose-back-advertisement.png": "af66068c2e7efad911db1a096a61032479d835591ca4c2c1987b5a119dfd78f8",
-    "media/campus-orientation.png": "5e9f4d14bf3a36e9d9413ee33bd2dd5b01f236e0d8c0f7228de470ab14729d84",
-    "media/campus-orientation.svg": "a10fb825c3d089215cfb454c9d2906bd40e1185592daaaa2f38a39eddd238a82",
+    "media/campus-orientation.png": "3ea57d905444ba1feca96c823d6baaaaf37bff7476a25d13fb89251345763ecd",
+    "media/campus-orientation.svg": "8eb89634f3a01c2fd1ae9451d1c9ef0f546f21f7db1a477fbead927d4b55219e",
     "media/hava-pod.png": "58b7be74eee9f580b6fed9adac6e6f974dc093c57657b2feca5d317dd35975b5",
     "media/ship-orientation.png": "c87fe10ed2831fe52e1f312a9e9b01f1665fa6fe3c07b78496024ab955e045e3",
     "media/ship-orientation.svg": "7451d314290190dcec79bab24aa9575c2a4b1756f95b43e9fe96611d004adf8a",
-    "records.json": "92d31eb2ae92696563464540cf6ef7810d9aa6967014795fd395f7f9cb7a5a3a"
+    "records.json": "83e88718a1954510309d6b95ed7cb45cf0f881f2cfd27ee2d318013208eff2a9"
   }
 }

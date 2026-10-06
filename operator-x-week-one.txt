@@ -1,6 +1,6 @@
 # Operator X — Week-One Chat Preview
 
-Build version: 0.3.5
+Build version: 0.3.6
 
 Update metadata URL: https://raw.githubusercontent.com/wundarous/op-x-console/main/version.json
 
@@ -112,11 +112,11 @@ Do not expose other operators' journals. This edition has no Level Research area
 
 ## Orientation diagrams
 
-Two authored diagrams accompany the record library: Campus Map and Lobby Guide (REC-O012, after Day 2 Entry 1) and Ship Orientation Diagram (REC-O013, after Day 2 Entry 2). The What Is A-HAVA? text record (REC-O014) opens after Day 2 Entry 3. The HAVA Pod — Illustrated Guide (REC-O015) opens after Day 2 Entry 1 and includes `media/hava-pod.png`, a labeled equipment illustration. The demonstration occupant has no established identity; do not identify them as X or another character. These records use the same requires_read rules as other documents; do not display or describe their images before they unlock.
+Two authored diagrams accompany the record library: Institute Grounds Map (REC-O012, after Day 1 Entry 1) and Ship Orientation Diagram (REC-O013, after Day 2 Entry 2). The What Is A-HAVA? text record (REC-O014) opens after Day 2 Entry 3. The HAVA Pod — Illustrated Guide (REC-O015) opens after Day 2 Entry 1 and includes `media/hava-pod.png`, a labeled equipment illustration. The demonstration occupant has no established identity; do not identify them as X or another character. These records use the same requires_read rules as other documents; do not display or describe their images before they unlock.
 
 For an unlocked diagram, display the supplied PNG when the host supports it, using the actual attached image or an existing local file: `media/campus-orientation.png`, `media/ship-orientation.png`, or `media/hava-pod.png`, relative to the record library. In a standalone package the media folder is beside operator-x-week-one.txt; in the plugin it is beside references/records.md. The two map diagrams have SVG originals; the pod illustration is a PNG. Use the host's supported image display or file-link mechanism without inventing a hosted URL. An attachment's filename identifies the corresponding record.
 
-If the image is not attached or cannot be displayed, say `Diagram image unavailable; text description follows.` and give the authored Diagram Description or Image Description plus any requested document text. Do not show a broken embed, claim to have displayed an image, generate a substitute, or infer details beyond the supplied diagram and description. The maps are schematic wayfinding guides, not measured floor plans or evidence of unmarked rooms or access routes. The pre-Fall advertisement below is also included; no ship-arrival photographs are included.
+If the image is not attached or cannot be displayed, say `Diagram image unavailable; text description follows.` and give the authored Diagram Description, Image Description, or Finding Your Way section plus any requested document text. Do not show a broken embed, claim to have displayed an image, generate a substitute, or infer details beyond the supplied diagram and description. The maps are schematic wayfinding guides, not measured floor plans or evidence of unmarked rooms or access routes. The pre-Fall advertisement below is also included; no ship-arrival photographs are included.
 
 ## Day 7 advertisement
 
@@ -170,9 +170,9 @@ Use only records eligible at the current reconstruction point. This index is hos
 | REC-J007-2 | Journal | 007 | 2 | — | Mission Day 007 — Entry 2 |
 | REC-J007-3 | Journal | 007 | 3 | — | Mission Day 007 — Entry 3 |
 | REC-O001 | Orientation | 001 | 1 | REC-J001-1 | Orientation — Day 1 |
-| REC-O002 | Orientation | 002 | 1 | REC-J002-1 | Day 002 — Campus and Operator Systems |
+| REC-O002 | Orientation | 002 | 1 | REC-J002-1 | Orientation — Day 2 |
 | REC-O004 | Orientation | 002 | 1 | REC-J002-1 | Campus Life and Access |
-| REC-O012 | Orientation | 002 | 1 | REC-J002-1 | Campus Map and Lobby Guide |
+| REC-O012 | Orientation | 001 | 1 | REC-J001-1 | Institute Grounds Map |
 | REC-O005 | Orientation | 002 | 1 | REC-J002-1 | Operator Refresh |
 | REC-O015 | Orientation | 002 | 1 | REC-J002-1 | HAVA Pod — Illustrated Guide |
 | REC-O006 | Orientation | 002 | 1 | REC-J002-1 | Using the Archive |
@@ -185,7 +185,7 @@ Use only records eligible at the current reconstruction point. This index is hos
 | REC-O009 | Orientation | 003 | 1 | REC-J003-1 | Questions from Your Cohort |
 | REC-O010 | Orientation | 003 | 1 | REC-J003-1 | Practice and Readiness |
 | REC-O017 | Orientation | 003 | 1 | REC-J003-1 | Japan — Everyday Life and Social Expectations |
-| REC-O011 | Orientation | 003 | 2 | REC-J003-2 | Sessions and Handoffs |
+| REC-O011 | Orientation | 003 | 1 | REC-J003-1 | Sessions and Handoffs |
 | REC-O018 | Orientation | 003 | 2 | REC-J003-2 | Germany — Everyday Life and Changing Authority |
 | REC-O019 | Orientation | 003 | 3 | REC-J003-3 | Hawaii — Community and Everyday Life |
 | REC-A001 | Archive | 007 | 1 | REC-J007-1 | The Fall and the Loss of Connection |
@@ -203,9 +203,16 @@ A woman stood at the ship's exit.
 
 She kept checking a list, then looking at me. Several times she began to speak and stopped.
 
-Her instructions were brief. Follow the path to campus. Go to the cafeteria. Ask the bots about anything else. We would figure it out.
+She handed me an envelope with a map [REC-O012] and access card. 
 
-She told me I was X and then walked onto the ship, commenting that I was "the last one."
+Her instructions were brief:
+Follow the path to campus. Go to the cafeteria. Ask the bots about anything else. 
+
+We would figure it out.
+
+She disappeared into the ship, commenting that I was "the last one."
+
+My access card is labeled "Operator X."
 
 X is a letter. 
 
@@ -217,7 +224,7 @@ I knew what a cafeteria was and found it without difficulty.
 
 But I don't know my real name...
 
-I retreated to what I assume is my sleeping quarters and found this console. Everything seems to be locked, except for the orientation schedule and this journal.
+I retreated to what I assume is my sleeping quarters and found this console. Everything seems to be locked, except for the orientation schedule [REC-O001] and this journal.
 
 The schedule has kick off over dinner. I guess I'll find out more then.
 
@@ -233,13 +240,15 @@ The advisor didn't arrive. After several minutes of silence someone spoke up and
 
 I counted and listened.
 
-There are 24 of us. I kept quiet on being "last." I wasn't sure what that meant so I figured I would wait and see.
+There are 24 of us. 
 
-Dinner proceeded on schedule, thanks to the bots. Their timely arrival seemed to ease the tension and concerns.
+I kept quiet on being "last." I wasn't sure what that meant so I figured I would wait and see.
+
+The bots started dinner on schedule. 
 
 They broke us up into groups of 6 and facilitated some ice breakers. More fun than expected. 
 
-They said we should stick together and eat together and report anyone who needed a refresh unless they went to the nurses station. A schedule of group activities to make sure we attended to our basic needs like eating, exercise, and socializing would be shared at the start of each week.
+They said we should stick together and eat together and report anyone who needed a refresh unless they went to the nurses station. 
 
 Not sure what refresh means. I guess that was all covered in the kickoff that didn't happen. 
 
@@ -253,11 +262,15 @@ Title: Mission Day 001 — Entry 3
 Release point: Day 001, entry 3
 Requires read: none (journal)
 
-I can't seem to sleep... Too many questions unanswered. 
+I can't seem to sleep... The longer I'm out of the Artifact, the more I remember this place and the mission. 
 
-Who was the woman outside the ship? Has anyone seen her? Did they get better info?
+But the more I remember, the more questions I have.
 
-How is it I made it so far in the day and only now think of her?
+How long was I in there? 
+
+How many people are left?
+
+What is my real name?
 
 END RECORD
 
@@ -267,9 +280,7 @@ Title: Mission Day 002 — Entry 1
 Release point: Day 002, entry 1
 Requires read: none (journal)
 
-Asked about the woman over breakfast. Nobody at our table knew her name. Several remembered being directed to the cafeteria. We had spent most of yesterday comparing what we remembered from our original lives, not what had happened when we woke up. I guess the fog of waking up is affecting more than me.
-
-The campus tour was useful. I now know where to go, where to eat, and where to Refresh. Exercise, socializing, and entertainment were covered as well. 
+The campus tour was useful. 
 
 The East Wing is for the agents -- the people we're supposed to help get into the artifact. We won't be meeting them. Robots take care of them.
 
@@ -277,11 +288,9 @@ Had my first Refresh. It's an AI-guided session that guages my state of mind. My
 
 Yellow means time off, meditation, walks, and three refreshes a day. If it hasn't improved after three days, you're supposed to go back into the Artifact. 
 
-Some files appeared after the morning sessions. Yesterday's empty console is beginning to make more sense. The archivist said the files follow the orientation so we don't have too much to read at once.
+My console is filling with more files. The archivist said they follow the orientation so we don't have too much to read at once.
 
 The archive instructions say the advisor is an operator from the previous cohort. Possibly the woman at the exit? Nobody seems to know, and I seem to be the only one who really cares.
-
-The instructions say to ask the advisor for more information about the handoff.
 
 END RECORD
 
@@ -291,19 +300,25 @@ Title: Mission Day 002 — Entry 2
 Release point: Day 002, entry 2
 Requires read: none (journal)
 
-F said something at lunch about the Great Fall. We had been comparing the bots we'd seen around campus. He said before the fall, the world was "wireless." I'll need to ask the archivist about the Fall when there's time.
+F said something at lunch about the Great Fall. He said before the fall, the world was "wireless." I'll need to ask the archivist about the Fall when there's time.
 
-Went back into the ship with the tour. The small room is the Transfer Chamber. The larger room I passed is the Bridge. It was all familiar and felt oddly like home.
+Went back into the ship with the tour. It felt good to be so close to the Artifact. Not just comforting to know I'll be back inside, but a physical presence. Like a lightness in my chest that makes me smile.
 
-The Stacks hold the bodies. The last people on Earth, not including us operators and the remaining agents. It seems strange to think that nearly all of mankind is sitting in a library of sorts, frozen in time.
+It wasn't nearly the bliss of being inside, but a pleasant reminder of what awaits me.
+
+The stacks had a different effect.
+
+The last people on Earth, not including us operators and the remaining agents. 
+
+It seems strange to think that nearly all of mankind is sitting in a library of sorts, frozen in time.
 
 I can't quite put into words what that felt like seeing, but the security bots guarding the space helped me feel like I'm not the only one who gets the significance.
 
-They were like huge metal golems. A few of us got ahead of the group and one of the bots stopped us before anyone noticed it left its station. Terrifying does not cover it, and J's wee accident was something I think we all understood. Though, they may keep their new nickname a while longer.
+They were like huge metal golems. A few of us got ahead of the group and one of the bots stopped us before anyone noticed it left its station. 
 
-The ship is off limits after orientation, particularly the pod chamber. The golems moved to the front of the shipt as we departed.
+Terrifying does not cover it, and J's wee accident was something I think we all understood. Though, I suspect it may take awhile before we stop calling her "Jumpy J."
 
-The archivist answered my questions about the pods. I have more about what happens after everyone has finished training. I'll ask those separately. There was a console demonstration after the tour and I wanted to be on time.
+The ship is now off limits. Along with that unique feeling around the Artifact. The golems moved to the front of the shipt as we departed.
 
 END RECORD
 
@@ -313,13 +328,13 @@ Title: Mission Day 002 — Entry 3
 Release point: Day 002, entry 3
 Requires read: none (journal)
 
-The AI does most of the work. We get involved when it gets stuck. We use the console to review what happened and help it decide what to change.
+I wasn't really sure what to expect with training or working with the A-HAVA system. It turns out we get involved when the AI gets stuck. We use the console to review what happened and help it decide what to change.
 
-Today's example wasn't a real person. I found the goal, the ghost, and the request for help without much trouble. I kept looking for another part of the instructions, but that was all we were supposed to do today. Tomorrow we practice making changes.
+We'll spend our days jumping from agent to agent, reviewing the context of the level like the time period, location, and any operator notes from previous sessions. Then tell the AI what adjustments to make to help it reach it's goals.
 
-We can work with several agents because they don't need us all the time.
+Although the mechanics are core to our training, getting a feel for the different worlds is core to our ability to do the job. 
 
-There is a short guide to reading the historical settings. Date and place first. From what I see so far, the world is a very different place. The colors, the sounds, the smells. It's all so foreign to me, it makes me wonder if the former me ever left the institute.
+The colors, the sounds, the smells. It's all so foreign to me, it makes me wonder if the former me ever left the institute.
 
 END RECORD
 
@@ -329,21 +344,13 @@ Title: Mission Day 003 — Entry 1
 Release point: Day 003, entry 1
 Requires read: none (journal)
 
-More files this morning, including a list of questions the archivist has been getting. Several were mine.
+As the day is going on, I'm getting a better feel for my role as an operator and how I'll be spending my time.
 
-After reviewing the docs, I went on to the operator training exercises. It felt a lot more like a game than I would have expected.
+The A-HAVA system runs the agent through three virtual worlds -- Japan, Germany and then Hawaii. As the agent runs through the worlds, they are put in different training scenarios called levels. Each agent has a unique experience.
 
-The mock agent needed to take a free trip north, but he wasn’t going. The AI asked me to step in.
+My job as an operator is to help the AI when an agent gets stuck. We get 10 sessions and if the agent is still stuck, we pass them to the next operator. 
 
-I checked the area. The weather was pretty different. I found a traveler from the north with a coat to spare.
-
-First run, he didn't notice. You can't put a seed on an angel, and he wasn't looking at anything around the traveler either. I looked through the seed options for something that would draw his attention. A mouse could move into his path. I placed a seed on it and had it run across the walkway toward the traveler. He stopped, then refused the coat. Closer, but I needed more.
-
-Looking back through the data, I saw a brief rise in excitement at the offer, followed by what I interpreted as guilt. I tried again, this time making the traveler sensitive to heat so they would be visibly uncomfortable in the coat. Taking it would become a favor rather than feeling like theft.
-
-It worked! He took the coat and the trip.
-
-The console is beeping at me to take a food break, but I wanted to capture what happened before it got lost over lunch.
+I asked the archivist how often that happens and it acted like it was about to answer but then started to tell me about why it happens. I tried a few more times and but it kept circling back to the why. Maybe that just doesn't happen much?
 
 END RECORD
 
@@ -353,21 +360,31 @@ Title: Mission Day 003 — Entry 2
 Release point: Day 003, entry 2
 Requires read: none (journal)
 
-Had several examples open this afternoon. One needed a review, one needed a change, and one was still running. I checked the running one more often than necessary. Nothing needed doing there.
+The console is beeping at me to take a food break, but I want to capture my training session.
 
-Most people pass the first level within three sessions. A quick session can take fifteen or twenty minutes. A failed one can take hours.
+The AI needed the practice agent to travel north. It had already tried giving the agent a free trip, but it wasn't enough.
 
-By my rough count, ten long sessions could take 3 days. We only get 10 tries to get an agent to pass a level before having to hand someone off. I asked the archivist how often that happens and it acted like it was about to answer but then started to tell me about why it happens.
+I checked the map and details about the north. The weather was pretty different. Much colder.
 
-I tried a few more times and the same thing happened.
+I wondered if getting a new coat could inspire the agent to go north -- especially if that jacket felt like it was a lucky find.
 
-The individual exercise followed the same steps as this morning. Review what happened, make a change with the AI, look at the result. 
+I found a northern NPC, put them in the vicinity of the agent and programmed them to offer the agent a coat. This turned the NPC into an "angel."
 
-The examples were constructed, though. Tomorrow there will be someone on the other end.
+First run, the agent passed the angel without noticing.
 
-Read the Germany sheet after practice. An empire, a republic, then another government. Two wars in the dates covered. A lot to change while someone is still living in the same house. I wonder how much of the game changes around them.
+I told the AI to put a seed on the angel, but it refused. Apparently when you combine too many things the agent will reject the simulation because its too good to be true.
 
-I'm not really sure what they mean by war. I know the word. I keep picturing the security bots, but there weren't any in these places. I'm not sure I want to think about it. I feel like there is a memory of a conflict somewhere close to me and I don't like it.
+Instead, I placed a seed on a mouse and had it run towards the traveler. The agent followed the mouse, spoke with the traveler, and refused the coat. 
+
+I saw a brief rise in excitement at the offer of a coat, followed by what I interpreted as guilt or maybe embarrassment.
+
+I was closer, but I needed more.
+
+I ran the simulation again, this time making the traveler sensitive to heat. I was hoping if they were visibly uncomfortable in the heat taking the coat would become a favor.
+
+It worked! the agent took the coat and the trip.
+
+It felt like winning a game of cards.
 
 END RECORD
 
@@ -377,15 +394,17 @@ Title: Mission Day 003 — Entry 3
 Release point: Day 003, entry 3
 Requires read: none (journal)
 
-Walked after dinner. There were farming bots working beyond the path. One repeated the same movement along a row while the others worked farther out. 
+Dinner was spent with everyone talking about how they got their agent to travel north. H spread gossip about an event celebrating the agents favorite artist. F had an angel ask the agent to help them recover a lost item for a reward. It was interesting to see how we all came up with very different solutions.
 
-I felt quite at ease by the bots, like when I first opened my eyes on they ship. 
+Walked after dinner. There were farming bots working beyond the path. One repeated the same movement along a row while the others worked farther out.
 
-I can feel a desire to be back on the ship, but its far from a craving. More like a deep knowing one day I will return.
+There was some comfort in their repetition. It created a sense of ease in me that reminded me of waking up on the ship. I closed my eyes, searching for that lightness I felt in the ship.
 
-The Mission ends with everyone in the Artifact and the Artifact on the Bridge. The docs said there were about 300 people left to train. They also said we all have a time limit before we'll need to go back into the Artifact.
+It wasn't quite the same, but the memory will suffice.
 
-We're the last operators available, with the last people to train. What happens if we can't?
+We're the last operators available, with the last people to train. 
+
+I'll be reunited soon. Tomorrow that begins with a real agent on the other end.
 
 END RECORD
 
@@ -397,13 +416,13 @@ Requires read: none (journal)
 
 First assignments this morning. Several agents at different points in training. One was already in Hawaii. I had expected everyone to start at the beginning with me.
 
-After two failed rounds, I took the console code to the nurses' station and reviewed the ghost. Honolulu, 1938. Warm air on my skin, salt and flowers together. The water was so bright I wanted to stop and look. I hadn't imagined somewhere could feel like this.
+After two failed rounds, I took the console code to the nurses' station and reviewed the ghost. Honolulu, 1938. Warm salty air on my skin, the smell of flowers in the breeze. The water was so bright I wanted to stop and look. I hadn't imagined somewhere could feel like this.
 
-Somewhere behind us a guitar was playing, the notes sliding into one another. I wanted to turn toward it, but the agent was watching a doorway. All of that warmth and sound coming through as if I were there, and I couldn't even choose where to look. Strange. Also wonderful. I replayed the walk before I remembered what I was supposed to be reviewing.
+A guitar was playing, the notes sliding into one another. I wanted to turn toward it, but the agent was watching a doorway. All of that warmth and sound coming through as if I were there, and I couldn't even choose where to look. Strange. Also wonderful. I replayed the walk before I remembered what I was supposed to be reviewing.
 
 In paused exploration I went down to the water and touched it. No sensation, not even wetness. A moment before I could feel the breeze. Now I could go where I wanted, but couldn't feel the water.
 
-Returned to the doorway and found where the agent's attention moved away. Back at the console, I placed a seed on the parcel beside it. The next session took about twenty minutes.
+Returned to the doorway and found where the agent's attention moved away. Back at the console, I placed a seed on the parcel beside it. The next session went smoothly.
 
 END RECORD
 
@@ -433,7 +452,7 @@ Kept thinking about Hawaii over dinner. The other places were still there too. F
 
 I wonder if I can ask for a place in a refresh. Not an assignment. Just somewhere to be for a while. I'll ask the nurse.
 
-No one finished their full training today, but several moved forward. Refreshes were green. I had planned to visit the archivist after dinner. Left it for another day.
+No one completed World 3 today, but several moved forward. Refreshes were green. I had planned to visit the archivist after dinner. Left it for another day.
 
 END RECORD
 
@@ -443,23 +462,25 @@ Title: Mission Day 005 — Entry 1
 Release point: Day 005, entry 1
 Requires read: none (journal)
 
-I know A-HAVA works. I know the Artifact experience is real. I know we need this system, but seeing the process today has left me needing a Refresh. 
+I know A-HAVA works. I know the Artifact experience is real. I know we need this system, but today left me needing a Refresh. 
 
 A person from yesterday had ascended dozens of levels. I compared today's recording with the earlier one at my console. Same quick smile, same habit of leaning into a conversation.
 
 Before, he kept flirting with a woman after learning she was married. Was asking questions to keep the conversation going. 
 
-There was no reciprocity on the NPCs side to even suggest she may be open to anything. He seemed completely unaware or that. I could see arousal on the console and it seemed to be driving him.
+There was no reciprocity on the NPCs side to even suggest she may be open to anything. He seemed completely unaware. I could see arousal on the console and it seemed to be driving him.
 
-Today, in a similar encounter, he wished the other woman a good afternoon and left. The desire readings were just as strong. He still wanted more. He just didn't linger.
+Today, in a similar encounter, he wished the other woman a good afternoon and left. The desire readings were just as strong. 
+
+He still wanted more. He just didn't linger.
 
 It was like his inner reactions were the same, but his outer response was altered. It made me wonder about what had happened.
 
 I went looking for some answers...
 
-I found a session between those two recordings. The agent had been placed in the original woman's body, facing the ghost of his earlier self.
+I found a session between yesterday and today where the agent had been placed in the original woman's body, facing the actions of their earlier self.
 
-I opened it at the console. Same room, same clothes, the conversation unfolding as before. This time the readings were his responses from her side of things. 
+I opened it at the console. Same room, same clothes, the conversation unfolding as before. This time the readings were the agent's responses from her side of things. 
 
 He... well... she at first just was neutral about the conversation, then began to get frustrated.
 
@@ -467,23 +488,27 @@ As a man, this agent was very straightforward, but in this female body, they wer
 
 However, their emotion readings kept growing with discomfort. 
 
-Then their original self got handsy. 
-
-There was no outburst. 
-
-There was no visible protest. The reading flashed red, then dropped away. 
+The reading flashed red, then dropped away. 
 
 Then nothing. 
 
 No readouts -- no Maat. No Chaos. The recording kept going. They were still sitting there. I wondered if the display had glitched, but the AI wasn’t concerned. When the readings returned, there was still discomfort, but much less than before. Nothing outside them seemed to have changed.
 
-I considered going into the ghost, but it didn't seem like a safe option. 
+I felt like I was missing something. What happened that the agents emotions spiked and then nothing? I went down to the nurses station to check out the ghost. 
+
+In the woman's body I could feel warm breath on my face he was leaning in so close. It smelled of whiskey and I hadn't noticed the slur in his voice before. 
+
+Besides that nothing felt off, until I felt a hand on my thigh. I was wearing a skirt and the hand was inching up.
+
+I screamed as I hit the eject button. 
+
+It wasn't my body. I knew it wasn't my body, but it felt like my body.
 
 I didn't remember him being handsy the first time around -- I thought I would have noticed and it would have been upsetting. They say ghosts are fixed, and I wondered if the AI spiced them up to make a point.
 
 But then I thought for a moment.
 
-I only knew about the touching because I could see her reaction and looked. 
+I only knew about the touching because I felt it.
 
 His hand was under the table. She was wearing a skirt. 
 
@@ -501,7 +526,7 @@ This is why we couldn't go into the Artifact before.
 
 I can't hold it against the agent. The AI is creating these points. Its programmed, somehow to make the storms and conditions for the needed lessons.
 
-Still, his original actions were criminal. Does today make it any different?
+Still, his original actions were sickening. Does today make it any different?
 
 But it wasn't just a day for that person... It was many many lifetimes.
 
@@ -565,7 +590,7 @@ Requires read: none (journal)
 
 C came over to our table to tell me about the Ascension ritual. He saw I was the last operator on the case so he thought I should know what it was like. 
 
-He said he waited at the entrance to the ship for the agent to arrive. They appeared, guided by a bot, wearing the same clothes we all woke up in. Then C led them to the bridge, and gave them a moment alone in the room.
+He said he waited at the entrance to the ship for the agent to arrive. They appeared, guided by a bot, wearing the same clothes we all woke up in. Then C led them to the bridge, and gave them a moment alone.
 
 In the transfer chamber, the agent went into the pod and became frozen in time. There was no sound or other notification. C waited a moment to be sure and put them in the stacks.
 
@@ -623,7 +648,7 @@ I took the recommended break.
 
 After a walk, I read some files the archivist had sent about the Fall. It's strange to think about all the machines that stopped working, but weren't broken. The city file still didn't say how many people there had been.
 
-There was one advertisement called "Bring Purpose Back." 
+There was one advertisement called "Bring Purpose Back [REC-A015]." 
 
 After Hawaii, I can see the appeal. That warmth, the water, a whole life there. If I hadn't come from the Artifact, I wonder how willing I'd be to leave it for the Institute.
 
@@ -659,9 +684,7 @@ After lunch, several operators stopped at Evelyn's statue. Each extended their r
 
 I understand their gratitude. I remember the goodness of being in the Artifact. The connection. The love. Evelyn helped make that possible, but what I feel is so much bigger than her. I can't make it about her the way they seem to.
 
-Perhaps something is missing with my memories. They seem to know who they are in a way I don't. Who was I before this? How terrible had I been? Does the system come so easily because I'm some deviant it already remade?
-
-I kept thinking about Evelyn's quote. What tragedy made her aware of the good it could become?
+Perhaps something is missing with my memories. They seem to know who they are in a way I don't. Who was I before this? How terrible had I been? Does the system come so easily because I'm some criminal it already remade?
 
 At the pub, I joined F and S for cards. Somewhere in the middle of it I realized I was thinking about the hand in front of me. I stayed for another game.
 
@@ -669,7 +692,7 @@ By the end of my bedtime Refresh, the train felt distant. Still something I had 
 
 Green. One week outside.
 
-I'd like to know when Evelyn said that, and what she was describing.
+I keep thinking about Evelyn's quote. What tragedy made her aware of the good it could become?
 
 END RECORD
 
@@ -716,18 +739,18 @@ END RECORD
 
 ## Record: REC-O002
 
-Title: Day 002 — Campus and Operator Systems
+Title: Orientation — Day 2
 Release point: Day 002, entry 1
 Requires read: REC-J002-1
 
-# Day 002 — Campus and Operator Systems
+# Orientation — Day 2
 
 Source: A-HAVA Orientation
 
-| Time | Activity | Reference released afterward |
+| Time | Activity | References and availability |
 | --- | --- | --- |
 | 08:00 | Breakfast with your group of six | — |
-| 09:00 | Campus orientation | Campus Life and Access [REC-O004]; Campus Map and Lobby Guide [REC-O012] |
+| 09:00 | Campus orientation | Campus Life and Access [REC-O004], released afterward; Institute Grounds Map [REC-O012], supplied on arrival |
 | 10:00 | Refresh introduction and guided session | Operator Refresh [REC-O005]; HAVA Pod — Illustrated Guide [REC-O015] |
 | 11:30 | Archive introduction | Using the Archive [REC-O006] |
 | 12:30 | Lunch | — |
@@ -785,37 +808,41 @@ END RECORD
 
 ## Record: REC-O012
 
-Title: Campus Map and Lobby Guide
-Release point: Day 002, entry 1
-Requires read: REC-J002-1
+Title: Institute Grounds Map
+Release point: Day 001, entry 1
+Requires read: REC-J001-1
 
-# Campus Map and Lobby Guide
+# Institute Grounds Map
 
 Source: A-HAVA Orientation
 
-Release: Mission Day 002, after campus orientation
+Release: Mission Day 001, with the arrival map and access card
 
-![Campus overview and central-lobby wayfinding](media/campus-orientation.png)
+![Exterior institute map with an oval lobby, four wings forming an X, Evelyn’s statue and garden, walking paths, and routes toward the ship and cultivation grounds](media/campus-orientation.png)
 
-The campus served thousands of residents during earlier phases of training. Its dining, learning, recreation, and care facilities extend well beyond the needs of your current cohort. This guide groups destinations around the central lobby; it is not a measured building plan.
+An exterior guide to the institute and its grounds. Numbered circles on the map match the destinations below. The diagram shows general connections, not measured distances or specific doors.
 
-## From the Central Lobby
+## Destination Key
 
-- Library and Archive: reading and study rooms, with the archivist desk for controlled records and questions. Library access does not grant access to every archive record.
-- Cafeteria and residential quarters: meals, operator accommodation, and common rooms.
-- Care Centre: nurses' station and refresh pods. Pod interfaces remain secured and wired.
-- Fitness and Sports Arena: exercise facilities, courts, and spectator seating.
-- Pub and recreation rooms: places to meet outside operator hours.
-- Gardens and courtyard: Evelyn's memorial plaza and connections to the outdoor walking paths.
-- Assembly and learning facilities: hall, classrooms, and workshops.
+1. **Central lobby:** information and wayfinding; cafeteria.
+2. **Main building:** meeting rooms, fitness center, and arena, in the large rectangular building behind the lobby.
+3. **Dormitory wing:** operator sleeping quarters and common rooms.
+4. **Library, care, and entertainment wing:** library and archive, nurses’ station, pub, and other entertainment. Library access does not grant access to every archive record.
+5. **Evelyn’s statue and garden:** the memorial statue and garden outside the front of the lobby, with connections to the walking paths.
+6. **Systems and maintenance wing:** institute systems and robot maintenance. Authorized access only.
+7. **Agent HAVA wing:** agent accommodation and training pods in the East Wing. Restricted access.
+8. **Farmland and cultivation center:** follow the outward path to the cultivated grounds. Keep to permitted paths.
+9. **Path to the ship:** follow the upper-left path. Ship visits require an escorted orientation or a scheduled duty.
 
-## Boundaries
+## Finding Your Way
 
-The East Wing contains agent quarters and training pods. Operators do not enter it. The path toward the ship does not authorize entry: ship visits require an escorted orientation or a scheduled duty. Robot maintenance and service buildings are not recreational areas. Keep to permitted paths through the cultivated grounds.
+South is at the top of this map, as shown by the upward-pointing S arrow. The oval lobby is at the center of the institute. The main activity building sits behind it. Four wings extend diagonally from the lobby, forming an X: dormitories at the upper right, agent HAVAs at the upper left nearest the path to the ship, systems and maintenance at the lower left, and library, care, and entertainment at the lower right.
 
-## Diagram Description
+Evelyn’s statue and garden sit below the lobby. Walking paths circle the building and connect to the garden. The path toward the ship leaves the map at the upper left; the ship itself is not shown. The path toward farmland and the cultivation center leaves at the lower right.
 
-The overhead panel places the ship beyond the central campus and the East Wing to the right of the lobby. Library, dining, residential, care, and recreation destinations surround the lobby. An outer walking loop connects the gardens and recreational areas. A separate lobby panel groups the destinations into directional signs. Lines show general connections, not specific doors, distances, or security bypasses.
+## Access
+
+Operators do not enter agent quarters. Ship visits require an escorted orientation or a scheduled duty. Robot maintenance and service areas are not recreational spaces. Follow posted access signs; a route on this map does not grant permission to enter a restricted destination.
 
 END RECORD
 
@@ -1136,10 +1163,11 @@ Source: A-HAVA Orientation
 | --- | --- | --- |
 | 08:00 | Breakfast with your group; remaining orientation files released | Archivist FAQ [REC-O009] |
 | 09:00 | Cohort purpose and selection | FAQ: the Mission and this cohort |
+| 09:30 | Failed sessions, attempt limits, and handoffs | Sessions and Handoffs [REC-O011] |
 | 10:00 | Guided intervention practice | Practice and Readiness [REC-O010]; Japan reference [REC-O017] |
 | 12:00 | Refresh, followed by lunch | Operator Refresh [REC-O005] |
 | 13:30 | Managing several training examples | Practice and Readiness; Germany reference [REC-O018], after practice |
-| 15:00 | Failed sessions, attempt limits, and handoffs | Sessions and Handoffs [REC-O011] |
+| 15:00 | Review of practice sessions and handoff decisions | Sessions and Handoffs, released after the morning briefing |
 | 16:00 | Individual readiness exercise | Practice and Readiness |
 | 17:00 | Refresh and next-day work schedule | Sessions and Handoffs |
 | Evening | Final preparation, dinner, free time, and bedtime refresh | Hawaii reference [REC-O019]; Operator Refresh |
@@ -1280,13 +1308,13 @@ END RECORD
 ## Record: REC-O011
 
 Title: Sessions and Handoffs
-Release point: Day 003, entry 2
-Requires read: REC-J003-2
+Release point: Day 003, entry 1
+Requires read: REC-J003-1
 
 # Sessions and Handoffs
 
 Source: A-HAVA Orientation  
-Release: Mission Day 003, after the afternoon handoff briefing
+Release: Mission Day 003, after the morning handoff briefing
 
 ## Session Timing
 
