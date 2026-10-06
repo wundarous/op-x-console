@@ -7,17 +7,20 @@
     <meta name="description" content="Read the recovered journal.">
     <title>Recovered journal</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <script type="module" crossorigin src="/assets/index-DjCKoAQ4.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-ChE7snnS.css">
+    <script type="module" crossorigin src="/assets/index-DCJvU8Am.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DkTj8lDw.css">
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to story</a>
     <header class="masthead">
       <a class="wordmark" href="#" aria-label="Journal — home">JOURNAL</a>
+      <div class="header-actions">
+      <button id="help-open" class="text-link" type="button" aria-haspopup="dialog" aria-controls="help-dialog">Help</button>
       <nav class="mode-navigation" aria-label="Reading mode">
         <button id="mode-toggle" class="archive-label" type="button" aria-expanded="false" aria-controls="mode-menu"><i aria-hidden="true"></i><span id="mode-label">Recovered journal</span><span aria-hidden="true">⌄</span></button>
         <div id="mode-menu" class="mode-menu" hidden><a id="journal-mode" href="#">Recovered journal</a><a href="#archive">Document archive</a></div>
       </nav>
+      </div>
     </header>
     <p id="storage-notice" class="notice" role="status" hidden></p>
     <main id="main" tabindex="-1" aria-busy="true">
@@ -26,6 +29,31 @@
     <dialog id="document-dialog" aria-labelledby="document-title">
       <header class="dialog-header"><span class="eyebrow">Document archive</span><button id="document-close" type="button" aria-label="Close document">×</button></header>
       <p id="document-id" class="meta"></p><h2 id="document-title" class="reader-title"></h2><div id="document-body" class="body"></div>
+    </dialog>
+    <dialog id="help-dialog" aria-labelledby="help-title">
+      <header class="dialog-header"><span class="eyebrow">About the experience</span><button id="help-close" type="button" aria-label="Close help">×</button></header>
+      <h2 id="help-title" class="reader-title">How to read these records</h2>
+      <div class="body">
+        <p><em>The Many Lives of Operator X</em> is an interactive fiction and reading experience.</p>
+        <h3>The story</h3>
+        <p>About a thousand years after a catastrophe called the Great Fall, humanity is preparing to leave Earth. People are being integrated into the Artifact, which was aboard the spacecraft whose arrival caused the Great Fall. Operators help the A-HAVA training system guide people through simulated lives so they can reach the state of consciousness required to join the Artifact.</p>
+        <p>Operator X is the last operator. She has no memory of who she was before this.</p>
+        <h3>Follow the questions that interest you</h3>
+        <p>Approach the recovered journals and documents like a detective arriving after the events. Who is Operator X, really? Does the mission succeed? Why does the system make people suffer? Choose the mysteries you want to investigate.</p>
+        <p>Not every detail is a clue. Some records offer evidence; others add story, atmosphere, or trivia. You don’t need to solve every detail to enjoy the experience.</p>
+        <h3>Reading here</h3>
+        <p>This site offers a traditional reading view of the first week. Use the next and previous buttons to move through journal entries. Linked documents open in a popup; close it with the × or Escape to return to your place.</p>
+        <p>Documents also appear below the entry that introduces them. Use the “Recovered journal” menu to switch to the document archive. “Browse journal entries” is below the journal on mobile and in the left sidebar on larger screens. Your reading progress is saved in this browser when storage is available.</p>
+        <h3>Exploring with an AI agent</h3>
+        <p>The full experience is designed to be explored with an AI agent. You can read closely, or skim to find questions you want to ask. The agent can help you sort through the supplied records, organize evidence, and explore connections.</p>
+        <p>This reader has no AI chat built in. It gives you a taste of the story so you can decide whether a mystery makes you want to become a detective yourself, with an AI agent to assist you. You can also simply enjoy the journals here.</p>
+        <p><a class="button" href="/downloads/operator-x-story-kit.zip" download>Download the Week 1 story kit</a></p>
+        <ol>
+          <li>Download the Week 1 story kit.</li>
+          <li>Add it to a new conversation in your AI chatbot.</li>
+          <li>Type “open the console”.</li>
+        </ol>
+      </div>
     </dialog>
     <footer class="site-footer"><span id="publication-title">Recovered journal</span><span>Recovered records</span></footer>
   </body>
