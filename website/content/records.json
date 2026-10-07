@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "releaseId": "week-one-8",
+  "releaseId": "week-one-9",
   "publication": {
     "id": "operator-x",
     "title": "The Many Lives of Operator X"
@@ -34,7 +34,7 @@
     "headlineEmphasis": "Operator X",
     "intro": "She came from the Artifact. She believes in the mission.\nThese are the records she left behind.",
     "excerpt": {
-      "text": "Who was I before this? A criminal the system remade? Is that why A-HAVA comes easily?",
+      "text": "Who was I before this? A criminal the system remade? Am I choosing to forget?",
       "day": 7,
       "entry": 3,
       "attribution": "Operator: X"
@@ -269,7 +269,7 @@
       "kind": "Journal",
       "day": 7,
       "entry": 3,
-      "html": "<p>After lunch, several operators stopped at Evelyn's statue. Each extended their right index and middle fingers together and kissed the fingertips. Then took turns pressing the statue's left foot, saying, “Together, we ascend.”</p>\n<p>I understand their gratitude. I remember the goodness of being in the Artifact. The connection. The love. Evelyn helped make that possible, but what I feel is so much bigger than her. I can't make it about her the way they seem to.</p>\n<p>Perhaps something is missing with my memories. They seem to know who they are in a way I don't. Who was I before this? A criminal the system remade? Is that why A-HAVA comes easily?</p>\n<p>At the pub, I joined F and S for cards. Somewhere in the middle of it I realized I was laughing more than thinking. I stayed for another game.</p>\n<p>By the end of my bedtime Refresh, the train felt distant. Still something I had seen, but no longer the thing I saw whenever I stopped doing something else.</p>\n<p>Green. One week outside.</p>\n<p>I keep thinking about Evelyn's quote. What evil made her believe any good could come of it?</p>\n",
+      "html": "<p>After lunch, several operators stopped at Evelyn's statue. Each extended their right index and middle fingers together and kissed the fingertips. Then took turns pressing the statue's left foot, saying, “Together, we ascend.”</p>\n<p>I understand their gratitude. I remember the goodness of being in the Artifact. The connection. The love. Evelyn helped make that possible, but what I feel is so much bigger than her. I can't make it about her the way they seem to.</p>\n<p>Perhaps something is missing with my memories. They seem to know who they are in a way I don't. Who was I before this? A criminal the system remade? Am I choosing to forget?</p>\n<p>At the pub, I joined F and S for cards. Somewhere in the middle of it I realized I was laughing more than thinking. I stayed for another game.</p>\n<p>By the end of my bedtime Refresh, the train felt distant. Still something I had seen, but no longer the thing I saw whenever I stopped doing something else.</p>\n<p>Green. One week outside.</p>\n<p>I keep thinking about Evelyn's quote. What evil made her believe any good could come of it?</p>\n",
       "requires_read": null
     },
     {
