@@ -1,6 +1,6 @@
 # Operator X — Week-One Chat Preview
 
-Build version: 0.3.7
+Build version: 0.3.8
 
 Update metadata URL: https://raw.githubusercontent.com/wundarous/op-x-console/main/version.json
 
@@ -684,7 +684,7 @@ After lunch, several operators stopped at Evelyn's statue. Each extended their r
 
 I understand their gratitude. I remember the goodness of being in the Artifact. The connection. The love. Evelyn helped make that possible, but what I feel is so much bigger than her. I can't make it about her the way they seem to.
 
-Perhaps something is missing with my memories. They seem to know who they are in a way I don't. Who was I before this? Was I a criminal the system remade? Is that why this work seems easy?
+Perhaps something is missing with my memories. They seem to know who they are in a way I don't. Who was I before this? A criminal the system remade? Is that why A-HAVA comes easily?
 
 At the pub, I joined F and S for cards. Somewhere in the middle of it I realized I was laughing more than thinking. I stayed for another game.
 
