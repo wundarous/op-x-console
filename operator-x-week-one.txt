@@ -236,7 +236,7 @@ Title: Mission Day 001 — Entry 2
 Release point: Day 001, entry 2
 Requires read: none (journal)
 
-The advisor didn't arrive. After several minutes of silence someone spoke up and chaos erupted in the room. It sounded like most people remembered a lot more than me.
+The advisor didn't arrive. After several minutes of silence someone spoke up and chaos erupted in the room. They all seem to remember more than me.
 
 I counted and listened.
 
@@ -248,7 +248,7 @@ The bots started dinner on schedule, and broke us up into groups of 6. We ate an
 
 They said we should stick together and eat together and report anyone who needed a refresh unless they went to the nurses station. 
 
-Not sure what refresh means. I guess that was all covered in the kickoff that didn't happen. 
+Not sure what refresh means. I guess that was all covered in the kickoff that didn't happen.
 
 Despite this odd situation I feel pretty good. Everyone seems to be feeling pretty good.
 
@@ -280,7 +280,7 @@ Requires read: none (journal)
 
 The campus tour was useful. 
 
-The East Wing is for the agents -- the people we're supposed to help get into the artifact. We won't be meeting them. Robots take care of them.
+The East Wing is for the agents -- the people we're supposed to help get into the artifact. Robots take care of them.
 
 Had my first Refresh. It's an AI-guided session that guages my state of mind. My result was green.
 
@@ -288,7 +288,7 @@ Yellow means time off, meditation, walks, and three refreshes a day. If it hasn'
 
 My console is filling with more files. The archivist said they follow the orientation so we don't have too much to read at once.
 
-The archive instructions say the advisor is an operator from the previous cohort. Possibly the woman at the exit? Nobody seems to know, and I seem to be the only one who really cares.
+The archive instructions say the advisor is an operator from the previous cohort. Possibly the woman at the exit? Nobody seems to know. I seem to be the only one who cares.
 
 END RECORD
 
@@ -326,7 +326,7 @@ Title: Mission Day 002 — Entry 3
 Release point: Day 002, entry 3
 Requires read: none (journal)
 
-I wasn't really sure what to expect with training or working with the A-HAVA system. It turns out we get involved when the AI gets stuck. We use the console to review what happened and help it decide what to change.
+I wasn't really sure what to expect with being an operator. It turns out we get involved when the AI gets stuck. We use the console to review what happened and help it decide what to change.
 
 We'll spend our days jumping from agent to agent, reviewing the context of the level like the time period, location, and any operator notes from previous sessions. Then tell the AI what adjustments to make to help it reach it's goals.
 
@@ -396,13 +396,15 @@ Dinner was spent with everyone talking about how they got their agent to travel 
 
 Walked after dinner. There were farming bots working beyond the path. One repeated the same movement along a row while the others worked farther out.
 
-There was some comfort in their repetition. It created a sense of ease in me that reminded me of the Artifact. I closed my eyes, searching for that lightness. I started to smile.
+There was some comfort in their repetition. It reminded me of the Artifact. I closed my eyes, searching for that lightness. I started to smile.
 
 It wasn't quite the same, but the memory will suffice.
 
-We're the last operators available, with the last people to train. 
+We're the last operators, helping the last people in training. 
 
-I'll be reunited soon. Tomorrow that begins with a real agent on the other end.
+Tomorrow that begins with a real person on the other end.
+
+I'll be reunited soon.
 
 END RECORD
 
@@ -1096,9 +1098,9 @@ Source: A-HAVA Orientation
 
 Release: Mission Day 002, after the operator-console introduction
 
-A-HAVA stands for Ascending Harness Activated Vessel Agent. It prepares people to coexist with other human essences inside the Artifact. The A-HAVA Institute is the institution where that training takes place.
+A-HAVA prepares people to coexist with other human essences inside the Artifact. The A-HAVA Institute is the institution where that training takes place.
 
-The system builds on HAVA, the technology that lets a person experience a simulated world while their body remains in a pod. Evelyn Burroughs developed A-HAVA for ascension training. The campus pods support that training; integration into the Artifact takes place separately aboard the ship.
+The system builds on the Harness Activated Vessel Agent (HAVA) platform from the old world. The technology lets a person experience a simulated world while their body remains in a pod. Evelyn Burroughs developed A-HAVA for ascension training. 
 
 ## Learning Through Experience
 
