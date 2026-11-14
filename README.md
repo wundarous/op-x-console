@@ -1,12 +1,16 @@
 # Operator X Console
 
+A thousand years after the Great Fall, humanity is preparing to leave Earth aboard the ship that nearly destroyed it.
+
+Within the ship's Artifact, millions share an existence beyond the lives they once knew. Joining them requires a state of consciousness few could attain until A-HAVA was built from the old world's surviving VR technology. Guided by AI and human operators, the remaining people work through simulated lifetimes so they too can integrate into the Artifact. Only then can the ship depart.
+
 Operator X is the last operator. The work comes naturally—until X is assigned Prisoner 285, a person driven by chaos, violence, and addiction.
 
-X walks through the prisoner's recorded lives, searching for a way forward. As events in the prisoner's world unfold, the other operators reach their limits and retreat into the Artifact. Eventually, only X, the robots, and one unfinished life remain.
+X walks through the prisoner's recorded lives, searching for a way forward. As the prisoner's world moves on, the other operators reach their limits and retreat into the Artifact. Eventually, only X, the robots, and one unfinished life remain.
 
 **Can X guide the last person into the Artifact before losing the way back?**
 
-Told through X's recovered console, *The Many Lives of Operator X* follows humanity's last passage from Earth, X's search for a way to save one life, and the past buried inside the machine meant to save them.
+Told through Operator X's recovered console, *The Many Lives of Operator X* follows humanity's journey into the unknown, X's search for the past, and the lives X must enter along the way.
 
 The recovered console contains Operator X's personal journal and documents received while working as an operator. Records become available as X discovers them, so follow the timeline to investigate the story.
 
