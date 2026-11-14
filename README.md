@@ -26,9 +26,9 @@ Not every detail is a clue. Some records offer evidence; others add story, atmos
 2. Attach the ZIP to a fresh AI chat.
 3. Say **“Open the console.”**
 
-The ZIP is a snapshot of the console files, not an application to install. If the AI needs more direction, say: **“Open the ZIP, read operator-x-week-one.txt, and run the console.”**
+The ZIP is a snapshot of the console files, not an application to install. It contains separate operating instructions and story records. If the AI needs more direction, say: **“Read operator-x-instructions.md and records.md, then run the console.”**
 
-If your chat cannot read ZIP files, extract the archive and attach `operator-x-week-one.txt` and the images from `media/`. Start a fresh conversation so earlier story discussions do not influence the experience.
+If your chat cannot read ZIP files, extract the archive and attach `operator-x-instructions.md`, `records.md`, and the images from `media/`. If your chat accepts only one text file, attach `operator-x-week-one.txt`, which combines the instructions and records. Start a fresh conversation so earlier story discussions do not influence the experience.
 
 ## Use the console
 

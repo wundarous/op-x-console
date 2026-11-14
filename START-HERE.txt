@@ -4,12 +4,13 @@ OPERATOR X — FIRST-WEEK TEST
 2. Attach the ZIP to a fresh AI chat.
 3. Say: Open the console.
 
-The ZIP includes the story, console instructions, and all four images.
+The ZIP includes separate console instructions, story records, and media images.
 If your chat asks for guidance, say:
-Open the ZIP, read operator-x-week-one.txt, and run the console.
+Open the ZIP, read operator-x-instructions.md and records.md, and run the console.
 
-If your app cannot read ZIPs, extract it and attach operator-x-week-one.txt
-plus the PNGs from media/ instead.
+If your app cannot read ZIPs, extract it and attach operator-x-instructions.md,
+records.md, and the images from media/. If your app accepts only one text file,
+attach operator-x-week-one.txt instead.
 
 Using a local AI tool? Open the extracted or cloned folder, start a fresh
 conversation, and say: Open the console.
