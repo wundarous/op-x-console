@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "releaseId": "week-one-10",
+  "version": 2,
+  "releaseId": "institute-capitalized-2026-11-14",
   "publication": {
     "id": "operator-x",
     "title": "The Many Lives of Operator X"
@@ -28,17 +28,11 @@
     "journal-007-2",
     "journal-007-3"
   ],
-  "landing": {
-    "eyebrow": "A story in recovered records",
-    "headline": "The Many Lives",
-    "headlineEmphasis": "Operator X",
-    "intro": "She came from the Artifact. She believes in the mission.\nThese are the records she left behind.",
-    "excerpt": {
-      "text": "The colors, the sounds, the smells. It's all so foreign to me, it makes me wonder if I ever left the institute.",
-      "day": 2,
-      "entry": 3,
-      "attribution": "Operator: X"
-    }
+  "landingExcerpt": {
+    "text": "The colors, the sounds, the smells. It's all so foreign to me, it makes me wonder if I ever left the Institute.",
+    "day": 2,
+    "entry": 3,
+    "attribution": "Operator: X"
   },
   "records": [
     {
@@ -104,7 +98,7 @@
       "kind": "Journal",
       "day": 2,
       "entry": 3,
-      "html": "<p>I wasn't really sure what to expect with being an operator. It turns out we get involved when the AI gets stuck. We use the console to review what happened and help it decide what to change.</p>\n<p>We'll spend our days jumping from agent to agent, reviewing the context of the level like the time period, location, and any operator notes from previous sessions. Then tell the AI what adjustments to make to help it reach it's goals.</p>\n<p>Although the mechanics are core to our training, getting a feel for the different worlds is core to our ability to do the job.</p>\n<p>The colors, the sounds, the smells. It's all so foreign to me, it makes me wonder if I ever left the institute.</p>\n",
+      "html": "<p>I wasn't really sure what to expect with being an operator. It turns out we get involved when the AI gets stuck. We use the console to review what happened and help it decide what to change.</p>\n<p>We'll spend our days jumping from agent to agent, reviewing the context of the level like the time period, location, and any operator notes from previous sessions. Then tell the AI what adjustments to make to help it reach it's goals.</p>\n<p>Although the mechanics are core to our training, getting a feel for the different worlds is core to our ability to do the job.</p>\n<p>The colors, the sounds, the smells. It's all so foreign to me, it makes me wonder if I ever left the Institute.</p>\n",
       "requires_read": null
     },
     {
