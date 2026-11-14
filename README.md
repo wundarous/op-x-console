@@ -50,14 +50,9 @@ When opening a document, the AI should use its in-chat document view when availa
 
 ## Save and resume
 
-1. **Get a bookmark for your current place.** Say **Save my position** and keep the code the console returns. It records your reading position and which journal entries you have read; it is not an account login or a server save.
-2. **Resume from a bookmark.** In a new chat, attach the same console package and send:
+1. **Get a bookmark for your current place.** Say **Save my position.** The AI will output a bookmark code.
+2. **Resume from a bookmark.** In a new chat, attach the same console package and send that same bookmark code.
 
-```text
-Resume the Operator X console from this bookmark. Use the instructions and records in the attached package. Show my current status and wait for my choice.
-
-[paste your saved code here]
-```
 
 ## Use a local AI tool
 
