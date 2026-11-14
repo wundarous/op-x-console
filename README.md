@@ -10,6 +10,12 @@ Told through X's recovered console, *The Many Lives of Operator X* follows human
 
 The recovered console contains Operator X's personal journal and documents received while working as an operator. Records become available as X discovers them, so follow the timeline to investigate the story.
 
+## How to investigate
+
+Approach the recovered journals and documents like a detective arriving after the events. Who was Operator X before? What was X's connection to the Institute? Did X complete the mission? Choose the mysteries you want to investigate.
+
+Not every detail is a clue. Some records offer evidence; others add story, atmosphere, or trivia. You decide what's interesting. As more journal entries and documents are uncovered, new evidence may shift the questions you want to pursue.
+
 ## Start in an AI chat
 
 1. Choose **Code → Download ZIP** on this GitHub page.
